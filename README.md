@@ -32,3 +32,5 @@ If you find SNGO useful for your work, you might cite the manuscript:
     compatible with the lastest version of Plasmo
     Support MINLP
     Support parallel computing
+    Support other linear/local optimal/global solvers
+    
