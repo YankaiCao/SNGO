@@ -1,0 +1,15 @@
+julia6 param1.jl >&1.out&
+julia6 param2.jl >&2.out&
+julia6 param3.jl >&3.out&
+julia6 param4.jl >&4.out&
+
+julia6 param5.jl >&5.out&
+julia6 param6.jl >&6.out&
+julia6 param7.jl >&7.out&
+julia6 param8.jl >&8.out&
+
+julia6 param9.jl >&9.out&
+julia6 param10.jl >&10.out&
+julia6 param11.jl >&11.out&
+julia6 param12.jl >&12.out&
+
