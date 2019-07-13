@@ -6,7 +6,7 @@ SNGO ( Structured Nonlinear Global Optimizer) is a global solver to solve struct
 SNGO has been developed by 
     
     Yankai Cao, University of British Columbia 
-    Victor Zavala, University of Wisconsin-Madison
+    Victor M. Zavala, University of Wisconsin-Madison
 
 
 ## Citing SNGO
