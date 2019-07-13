@@ -3,7 +3,7 @@
 SNGO ( Structured Nonlinear Global Optimizer) is a global solver to solve structured (stochastic) optimization problems. Models are built using Plasmo.jl (https://github.com/jalving/Plasmo.jl).
 
 SNGO has been developed by 
-Yankai Cao, University of British Columbia
+Yankai Cao, University of British Columbia \\
 Victor Zavala, University of Wisconsin-Madison
 
 
