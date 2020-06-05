@@ -1,0 +1,192 @@
+WARNING: using JuMP.getdual in module Main conflicts with an existing identifier.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: Solver does not appear to support hot-starts. Model will be built from scratch.
+No. of first stage variables  5
+No. of second stage variables 30
+No. of second stage constraints 24
+No. of scenarios  100
+No. of total variables 2505
+No. of total constraints 2895
+No. of binary variables 0
+No. of continuous variables 2505
+prime_status_trial   Optimal    4.3467377232908654e8
+prime_status_trial   Optimal    4.346737723301038e8
+prime_status_trial   Optimal    4.3467377233001494e8
+updated   true   4.3467377232908654e8
+U:   4.3467377232908654e8
+U:   4.3467377232908654e8
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+preprocess:   5.053214922 (s)
+extensive:   0.186074433 (s)
+No. of nonlinear variables  705
+No. of nonlinear Terms  705
+preprocessex:   0.445852512 (s)
+U:   4.3467377232908654e8
+additional  variables:  705
+relax:   0.550943942 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 4.3467e+08     2400.5759 % 
+before feasibility reduction [200.0, 500.0, 150.0, 807.568, 150.0]   [1500.0, 1500.0, 1500.0, 1500.0, 1500.0]
+after initial feasibility reduction [280.0, 580.0, 180.0, 880.0, 150.0]   [1342.03, 1500.0, 1251.01, 1500.0, 1116.61]     time:   3.887055451 (s)
+1    280.00000000258683    1342.0285900329336
+relaxed_status  Optimal relaxed_LB   4.313848644175784e8  UB  4.3467377232908654e8
+relaxed_status  Optimal relaxed_LB   4.365885113342751e8  UB  4.3467377232908654e8
+2    580.0000001792721    1499.9999999969864
+relaxed_status  Optimal relaxed_LB   4.2521903995057935e8  UB  4.3467377232908654e8
+relaxed_status  Optimal relaxed_LB   4.2645232742777383e8  UB  4.3467377232908654e8
+3    180.00000000745212    1251.005916557421
+relaxed_status  Optimal relaxed_LB   4.330124534298546e8  UB  4.3467377232908654e8
+relaxed_status  Optimal relaxed_LB   4.360372395967878e8  UB  4.3467377232908654e8
+4    880.0000000009954    1499.9999999420902
+relaxed_status  Optimal relaxed_LB   4.181701520734303e8  UB  4.3467377232908654e8
+relaxed_status  Optimal relaxed_LB   4.21155701416373e8  UB  4.3467377232908654e8
+5    150.00000000788134    1116.6115625772604
+relaxed_status  Optimal relaxed_LB   4.289368827282109e8  UB  4.3467377232908654e8
+relaxed_status  Optimal relaxed_LB   4.366210520491081e8  UB  4.3467377232908654e8
+after probing [280.0, 580.0, 180.0, 880.0, 150.0]   [1342.03, 1500.0, 1251.01, 1500.0, 1116.61]
+probing time:   24.833151159 (s)true
+added con      705
+relaxed_LB_trial       4.3363326987261677e8
+iterative relax time:   0.464942949 (s)Optimal    4.3363326987261677e8
+reduction_relax0
+all node solved
+Solution time:   56.273153883 (s)
+solved nodes:  1
+relax_LB_time_total:   1.466637689 (s)
+global_LB_time_total:   0 (s)
+local_UB_time_total:   7.235794818 (s)
+global_UB_time_total:   0 (s)
+BT_time_total:   36.816198226 (s)
+VS_time_total:   0 (s)
+1                                                     4.3037e+08     4.3467e+08     1.0000  % 
+first stage sol   [844.036, 960.412, 787.175, 1084.61, 699.079]
+LB_UB_list   Any[[-1.0e10, 4.34674e8, 1.0, 1.0]]

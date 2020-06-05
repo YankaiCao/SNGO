@@ -1,0 +1,3 @@
+julia6 40.jl >&40.out&
+julia6 20.jl >&20.out&
+julia6 10.jl >&10.out&

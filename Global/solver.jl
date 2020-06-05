@@ -1,6 +1,5 @@
-P = RandomStochasticModel(createModel, NS)   #RandomStochasticModel(createModel, nscen=10, nfirst=5, nparam=5)
-
 # if solve with SNGO
+P = RandomStochasticModel(createModel, NS)   #RandomStochasticModel(createModel, nscen=10, nfirst=5, nparam=5)
 m = copyStoModel(P)
 branch_bound(m)
 
@@ -9,7 +8,9 @@ branch_bound(m)
 
 # if solve with SCIP
 #=
+P = RandomStochasticModel(createModel, NS)
 m= extensiveSimplifiedModel(P)
+m = copyNLModel(m)
 m.solver = SCIPSolver("limits/gap", mingap, "limits/absgap", mingap, "limits/time", 43200.0)
 solve(m)
 =#
@@ -17,6 +18,7 @@ solve(m)
 
 # if solve with Ipopt
 #=
+P = RandomStochasticModel(createModel, NS)
 m= extensiveSimplifiedModel(P)
 m = copyNLModel(m)
 m.solver = IpoptSolver()

@@ -1,0 +1,1765 @@
+WARNING: using JuMP.getdual in module Main conflicts with an existing identifier.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Restoration phase is called at point that is almost feasible,
+  with constraint violation 7.771561e-16. Abort.
+Restoration phase is called at point that is almost feasible,
+  with constraint violation 1.110223e-16. Abort.
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Nonlinear solver does not provide dual solutions
+No. of first stage variables  5
+No. of second stage variables 21
+No. of second stage constraints 8
+No. of scenarios  100
+No. of total variables 1605
+No. of total constraints 1295
+No. of binary variables 0
+No. of continuous variables 1605
+prime_status_trial   Optimal    -112749.93147479258
+prime_status_trial   Optimal    -112749.93147479222
+prime_status_trial   Optimal    -112749.93147316316
+updated   true   -112749.93147479258
+U:   -112749.93147479258
+U:   -112749.93147479258
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+preprocess:   3.825950736 (s)
+extensive:   0.185964866 (s)
+No. of nonlinear variables  0
+No. of nonlinear Terms  0
+preprocessex:   0.125335569 (s)
+U:   -112749.93147479258
+additional  variables:  0
+relax:   0.439808497 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 -1.1275e+05    8869084.9912 % 
+before feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [1.0e8, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+after initial feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [1.0e8, 1.0e8, 1.0e8, 1.0e8, 1.0e8]     time:   3.25384921 (s)
+1    0.0    1.0e8
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [6.66667e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [6.66667e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    6.666666666666667e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [4.44444e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [4.44444e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    4.444444444444445e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [2.96296e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [2.96296e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    2.9629629629629634e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.97531e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.97531e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1.975308641975309e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.31687e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.31687e7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1.3168724279835392e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [8.77915e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [8.77915e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    8.77914951989026e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [5.85277e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [5.85277e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    5.852766346593507e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [3.90184e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [3.90184e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    3.9018442310623378e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [2.60123e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [2.60123e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    2.6012294873748915e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.73415e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.73415e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1.7341529915832612e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.1561e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.1561e6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1.1561019943888406e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [7.70735e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [7.70735e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    770734.6629258937
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [5.13823e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [5.13823e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    513823.10861726245
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [3.42549e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [3.42549e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    342548.7390781749
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [2.28366e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [2.28366e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    228365.82605211664
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.52244e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.52244e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    152243.8840347444
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1.01496e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1.01496e5, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    101495.9226898296
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [67663.9, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [67663.9, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    67663.9484598864
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [45109.3, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [45109.3, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    45109.298973257595
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [30072.9, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [30072.9, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    30072.86598217173
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [20048.6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [20048.6, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    20048.577321447818
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [13365.7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [13365.7, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    13365.718214298544
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [8910.48, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [8910.48, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    8910.478809532364
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [5940.32, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [5940.32, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    5940.319206354909
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [3960.21, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [3960.21, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    3960.2128042366057
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [2640.14, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [2640.14, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    2640.141869491071
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1760.09, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1760.09, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1760.0945796607139
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [1173.4, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [1173.4, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    1173.396386440476
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [782.264, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [782.264, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    782.2642576269839
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [521.51, 1.0e8, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [521.51, 1.0e8, 1.0e8, 1.0e8, 1.0e8]true
+1    0.0    521.509505084656
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+2    0.0    9.999999999999999e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 6.66667e7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 6.66667e7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    6.666666666666666e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 4.44444e7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 4.44444e7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    4.444444444444443e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.96296e7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.96296e7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    2.962962962962962e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.97531e7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.97531e7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1.9753086419753082e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.31687e7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.31687e7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1.3168724279835388e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 8.77915e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 8.77915e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    8.77914951989026e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5.85277e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5.85277e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    5.852766346593507e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3.90184e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3.90184e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    3.9018442310623378e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.60123e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.60123e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    2.6012294873748915e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.73415e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.73415e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1.7341529915832612e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.1561e6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.1561e6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1.1561019943888406e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 7.70735e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 7.70735e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    770734.6629258937
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5.13823e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5.13823e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    513823.10861726245
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3.42549e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3.42549e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    342548.7390781749
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.28366e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2.28366e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    228365.82605211664
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.52244e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.52244e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    152243.8840347444
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.01496e5, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1.01496e5, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    101495.9226898296
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 67663.9, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 67663.9, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    67663.9484598864
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 45109.3, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 45109.3, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    45109.298973257595
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 30072.9, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 30072.9, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    30072.86598217173
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 20048.6, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 20048.6, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    20048.577321447818
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 13365.7, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 13365.7, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    13365.718214298544
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 8910.48, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 8910.48, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    8910.478809532364
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5940.32, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 5940.32, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    5940.319206354909
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3960.21, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 3960.21, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    3960.2128042366057
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2640.14, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 2640.14, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    2640.141869491071
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1760.09, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1760.09, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1760.0945796607139
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1173.4, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 1173.4, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    1173.396386440476
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 782.264, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 782.264, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    782.2642576269839
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 521.51, 1.0e8, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 521.51, 1.0e8, 1.0e8, 1.0e8]true
+2    0.0    521.509505084656
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+3    0.0    9.999999999999996e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 6.66667e7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 6.66667e7, 1.0e8, 1.0e8]true
+3    0.0    6.666666666666664e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 4.44444e7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 4.44444e7, 1.0e8, 1.0e8]true
+3    0.0    4.444444444444443e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.96296e7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.96296e7, 1.0e8, 1.0e8]true
+3    0.0    2.962962962962962e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.97531e7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.97531e7, 1.0e8, 1.0e8]true
+3    0.0    1.9753086419753082e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.31687e7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.31687e7, 1.0e8, 1.0e8]true
+3    0.0    1.3168724279835388e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 8.77915e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 8.77915e6, 1.0e8, 1.0e8]true
+3    0.0    8.77914951989026e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5.85277e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5.85277e6, 1.0e8, 1.0e8]true
+3    0.0    5.852766346593507e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3.90184e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3.90184e6, 1.0e8, 1.0e8]true
+3    0.0    3.9018442310623378e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.60123e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.60123e6, 1.0e8, 1.0e8]true
+3    0.0    2.6012294873748915e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.73415e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.73415e6, 1.0e8, 1.0e8]true
+3    0.0    1.7341529915832612e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.1561e6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.1561e6, 1.0e8, 1.0e8]true
+3    0.0    1.1561019943888406e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 7.70735e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 7.70735e5, 1.0e8, 1.0e8]true
+3    0.0    770734.6629258937
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5.13823e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5.13823e5, 1.0e8, 1.0e8]true
+3    0.0    513823.10861726245
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3.42549e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3.42549e5, 1.0e8, 1.0e8]true
+3    0.0    342548.7390781749
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.28366e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2.28366e5, 1.0e8, 1.0e8]true
+3    0.0    228365.82605211664
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.52244e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.52244e5, 1.0e8, 1.0e8]true
+3    0.0    152243.8840347444
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.01496e5, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1.01496e5, 1.0e8, 1.0e8]true
+3    0.0    101495.9226898296
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 67663.9, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 67663.9, 1.0e8, 1.0e8]true
+3    0.0    67663.9484598864
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 45109.3, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 45109.3, 1.0e8, 1.0e8]true
+3    0.0    45109.298973257595
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 30072.9, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 30072.9, 1.0e8, 1.0e8]true
+3    0.0    30072.86598217173
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 20048.6, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 20048.6, 1.0e8, 1.0e8]true
+3    0.0    20048.577321447818
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 13365.7, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 13365.7, 1.0e8, 1.0e8]true
+3    0.0    13365.718214298544
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 8910.48, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 8910.48, 1.0e8, 1.0e8]true
+3    0.0    8910.478809532364
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5940.32, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 5940.32, 1.0e8, 1.0e8]true
+3    0.0    5940.319206354909
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3960.21, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 3960.21, 1.0e8, 1.0e8]true
+3    0.0    3960.2128042366057
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2640.14, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 2640.14, 1.0e8, 1.0e8]true
+3    0.0    2640.141869491071
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1760.09, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1760.09, 1.0e8, 1.0e8]true
+3    0.0    1760.0945796607139
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1173.4, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 1173.4, 1.0e8, 1.0e8]true
+3    0.0    1173.396386440476
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 782.264, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 782.264, 1.0e8, 1.0e8]true
+3    0.0    782.2642576269839
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 521.51, 1.0e8, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 521.51, 1.0e8, 1.0e8]true
+3    0.0    521.509505084656
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+4    0.0    9.999999999999996e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 6.66667e7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 6.66667e7, 1.0e8]true
+4    0.0    6.666666666666664e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 4.44444e7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 4.44444e7, 1.0e8]true
+4    0.0    4.444444444444443e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.96296e7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.96296e7, 1.0e8]true
+4    0.0    2.962962962962962e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.97531e7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.97531e7, 1.0e8]true
+4    0.0    1.9753086419753082e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.31687e7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.31687e7, 1.0e8]true
+4    0.0    1.3168724279835388e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 8.77915e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 8.77915e6, 1.0e8]true
+4    0.0    8.77914951989026e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5.85277e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5.85277e6, 1.0e8]true
+4    0.0    5.852766346593507e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3.90184e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3.90184e6, 1.0e8]true
+4    0.0    3.9018442310623378e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.60123e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.60123e6, 1.0e8]true
+4    0.0    2.6012294873748915e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.73415e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.73415e6, 1.0e8]true
+4    0.0    1.7341529915832612e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.1561e6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.1561e6, 1.0e8]true
+4    0.0    1.1561019943888406e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 7.70735e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 7.70735e5, 1.0e8]true
+4    0.0    770734.6629258937
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5.13823e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5.13823e5, 1.0e8]true
+4    0.0    513823.10861726245
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3.42549e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3.42549e5, 1.0e8]true
+4    0.0    342548.7390781749
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.28366e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2.28366e5, 1.0e8]true
+4    0.0    228365.82605211664
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.52244e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.52244e5, 1.0e8]true
+4    0.0    152243.8840347444
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.01496e5, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1.01496e5, 1.0e8]true
+4    0.0    101495.9226898296
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 67663.9, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 67663.9, 1.0e8]true
+4    0.0    67663.9484598864
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 45109.3, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 45109.3, 1.0e8]true
+4    0.0    45109.298973257595
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 30072.9, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 30072.9, 1.0e8]true
+4    0.0    30072.86598217173
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 20048.6, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 20048.6, 1.0e8]true
+4    0.0    20048.577321447818
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 13365.7, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 13365.7, 1.0e8]true
+4    0.0    13365.718214298544
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 8910.48, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 8910.48, 1.0e8]true
+4    0.0    8910.478809532364
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5940.32, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 5940.32, 1.0e8]true
+4    0.0    5940.319206354909
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3960.21, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 3960.21, 1.0e8]true
+4    0.0    3960.2128042366057
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2640.14, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 2640.14, 1.0e8]true
+4    0.0    2640.141869491071
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1760.09, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1760.09, 1.0e8]true
+4    0.0    1760.0945796607139
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1173.4, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 1173.4, 1.0e8]true
+4    0.0    1173.396386440476
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 782.264, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 782.264, 1.0e8]true
+4    0.0    782.2642576269839
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 521.51, 1.0e8]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 521.51, 1.0e8]true
+4    0.0    521.509505084656
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+5    0.0    1.0e8
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 6.66667e7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 6.66667e7]true
+5    0.0    6.666666666666667e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 4.44444e7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 4.44444e7]true
+5    0.0    4.444444444444445e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.96296e7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.96296e7]true
+5    0.0    2.9629629629629634e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.97531e7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.97531e7]true
+5    0.0    1.975308641975309e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.31687e7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.31687e7]true
+5    0.0    1.3168724279835392e7
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 8.77915e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 8.77915e6]true
+5    0.0    8.77914951989026e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5.85277e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5.85277e6]true
+5    0.0    5.852766346593507e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3.90184e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3.90184e6]true
+5    0.0    3.9018442310623378e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.60123e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.60123e6]true
+5    0.0    2.6012294873748915e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.73415e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.73415e6]true
+5    0.0    1.7341529915832612e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.1561e6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.1561e6]true
+5    0.0    1.1561019943888406e6
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 7.70735e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 7.70735e5]true
+5    0.0    770734.6629258937
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5.13823e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5.13823e5]true
+5    0.0    513823.10861726245
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3.42549e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3.42549e5]true
+5    0.0    342548.7390781749
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.28366e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2.28366e5]true
+5    0.0    228365.82605211664
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.52244e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.52244e5]true
+5    0.0    152243.8840347444
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.01496e5]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1.01496e5]true
+5    0.0    101495.9226898296
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 67663.9]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 67663.9]true
+5    0.0    67663.9484598864
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 45109.3]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 45109.3]true
+5    0.0    45109.298973257595
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 30072.9]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 30072.9]true
+5    0.0    30072.86598217173
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 20048.6]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 20048.6]true
+5    0.0    20048.577321447818
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 13365.7]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 13365.7]true
+5    0.0    13365.718214298544
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 8910.48]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 8910.48]true
+5    0.0    8910.478809532364
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5940.32]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 5940.32]true
+5    0.0    5940.319206354909
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3960.21]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 3960.21]true
+5    0.0    3960.2128042366057
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2640.14]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 2640.14]true
+5    0.0    2640.141869491071
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1760.09]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1760.09]true
+5    0.0    1760.0945796607139
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1173.4]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 1173.4]true
+5    0.0    1173.396386440476
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 782.264]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 782.264]true
+5    0.0    782.2642576269839
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+A [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 521.51]
+B [0.0, 0.0, 0.0, 0.0, 0.0]     [507.546, 507.546, 507.546, 507.546, 521.51]true
+5    0.0    521.509505084656
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+relaxed_status  Optimal relaxed_LB   -1.0e10  UB  -112749.93147479258
+after probing [0.0, 0.0, 0.0, 0.0, 0.0]   [507.546, 507.546, 507.546, 507.546, 507.546]
+probing time:   153.638029298 (s)true
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+added con      1800
+relaxed_LB_trial       -1.0e10
+iterative relax time:   0.462309662 (s)Optimal    -1.0e10
+relaxed_LB  -1.0e10
+after multiplier medium feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [507.546, 507.546, 507.546, 507.546, 507.546]
+reduction_relax0
+  scenario :  1   WS  scip statusOptimal  obj -986.5134856124562 lb  -986.5134856124562
+  scenario :  2   WS  scip statusOptimal  obj -1164.4541185252872 lb  -1164.4541185252872
+  scenario :  3   WS  scip statusOptimal  obj -1038.8791411888606 lb  -1038.8791411888606
+  scenario :  4   WS  scip statusOptimal  obj -1199.535701101927 lb  -1199.535701101927
+  scenario :  5   WS  scip statusOptimal  obj -1133.675010901189 lb  -1133.675010901189
+  scenario :  6   WS  scip statusOptimal  obj -1178.3016696915502 lb  -1178.3016696915502
+  scenario :  7   WS  scip statusOptimal  obj -1155.1831146158656 lb  -1155.1831146158656
+  scenario :  8   WS  scip statusOptimal  obj -1123.4792417674573 lb  -1123.4792417674573
+  scenario :  9   WS  scip statusOptimal  obj -1193.900378801117 lb  -1193.900378801117
+  scenario :  10   WS  scip statusOptimal  obj -1055.0480538281772 lb  -1055.0480538281772
+  scenario :  11   WS  scip statusOptimal  obj -1083.2722553331544 lb  -1083.2722553331544
+  scenario :  12   WS  scip statusOptimal  obj -1159.9114545616453 lb  -1159.9114545616453
+  scenario :  13   WS  scip statusOptimal  obj -1066.8767517916738 lb  -1066.8767517916738
+  scenario :  14   WS  scip statusOptimal  obj -1028.0365150334285 lb  -1028.0365150334285
+  scenario :  15   WS  scip statusOptimal  obj -1075.2151480151379 lb  -1075.2151480151379
+  scenario :  16   WS  scip statusOptimal  obj -1133.1345578630337 lb  -1133.1345578630337
+  scenario :  17   WS  scip statusOptimal  obj -1138.1853685409822 lb  -1138.1853685409822
+  scenario :  18   WS  scip statusOptimal  obj -1184.5959098042233 lb  -1184.5959098042233
+  scenario :  19   WS  scip statusOptimal  obj -1164.3361870324934 lb  -1164.3361870324934
+  scenario :  20   WS  scip statusOptimal  obj -1068.109102882896 lb  -1068.109102882896
+  scenario :  21   WS  scip statusOptimal  obj -1208.7785935900615 lb  -1208.7785935900615
+  scenario :  22   WS  scip statusOptimal  obj -1153.7982331286548 lb  -1153.7982331286548
+  scenario :  23   WS  scip statusOptimal  obj -1073.1966436735015 lb  -1073.1966436735015
+  scenario :  24   WS  scip statusOptimal  obj -1214.1406936819085 lb  -1214.1406936819085
+  scenario :  25   WS  scip statusOptimal  obj -1166.840822282661 lb  -1166.840822282661
+  scenario :  26   WS  scip statusOptimal  obj -1130.295362774358 lb  -1130.295362774358
+  scenario :  27   WS  scip statusOptimal  obj -1109.637780802828 lb  -1109.637780802828
+  scenario :  28   WS  scip statusOptimal  obj -1059.711242083535 lb  -1059.711242083535
+  scenario :  29   WS  scip statusOptimal  obj -1148.5153340931272 lb  -1148.5153340931272
+  scenario :  30   WS  scip statusOptimal  obj -1114.861175248561 lb  -1114.861175248561
+  scenario :  31   WS  scip statusOptimal  obj -1054.8244919128026 lb  -1054.8244919128026
+  scenario :  32   WS  scip statusOptimal  obj -1131.1013128650052 lb  -1131.1013128650052
+  scenario :  33   WS  scip statusOptimal  obj -1047.6333760283242 lb  -1047.6333760283242
+  scenario :  34   WS  scip statusOptimal  obj -1064.205919504303 lb  -1064.205919504303
+  scenario :  35   WS  scip statusOptimal  obj -1138.1987315606257 lb  -1138.1987315606257
+  scenario :  36   WS  scip statusOptimal  obj -1103.0221559297038 lb  -1103.0221559297038
+  scenario :  37   WS  scip statusOptimal  obj -1141.8346630640904 lb  -1141.8346630640904
+  scenario :  38   WS  scip statusOptimal  obj -1049.829727423295 lb  -1049.829727423295
+  scenario :  39   WS  scip statusOptimal  obj -1060.9612671745488 lb  -1060.9612671745488
+  scenario :  40   WS  scip statusOptimal  obj -1125.700322299756 lb  -1125.700322299756
+  scenario :  41   WS  scip statusOptimal  obj -1133.7541032834442 lb  -1133.7541032834442
+  scenario :  42   WS  scip statusOptimal  obj -1051.2181997133569 lb  -1051.2181997133569
+  scenario :  43   WS  scip statusOptimal  obj -1127.1042817223406 lb  -1127.1042817223406
+  scenario :  44   WS  scip statusOptimal  obj -1192.8911743652936 lb  -1192.8911743652936
+  scenario :  45   WS  scip statusOptimal  obj -1080.807280936663 lb  -1080.807280936663
+  scenario :  46   WS  scip statusOptimal  obj -1217.51021928667 lb  -1217.51021928667
+  scenario :  47   WS  scip statusOptimal  obj -1061.3174687531618 lb  -1061.3174687531618
+  scenario :  48   WS  scip statusOptimal  obj -1228.560439059764 lb  -1228.560439059764
+  scenario :  49   WS  scip statusOptimal  obj -1123.2479644188613 lb  -1123.2479644188613
+  scenario :  50   WS  scip statusOptimal  obj -1229.4900723522085 lb  -1229.4900723522085
+  scenario :  51   WS  scip statusOptimal  obj -1068.444416468343 lb  -1068.444416468343
+  scenario :  52   WS  scip statusOptimal  obj -1128.5092205770768 lb  -1128.5092205770768
+  scenario :  53   WS  scip statusOptimal  obj -1037.8283772766888 lb  -1037.8283772766888
+  scenario :  54   WS  scip statusOptimal  obj -1119.6301499636986 lb  -1119.6301499636986
+  scenario :  55   WS  scip statusOptimal  obj -1105.4988443438283 lb  -1105.4988443438283
+  scenario :  56   WS  scip statusOptimal  obj -1039.253064931846 lb  -1039.253064931846
+  scenario :  57   WS  scip statusOptimal  obj -1225.3132958202607 lb  -1225.3132958202607
+  scenario :  58   WS  scip statusOptimal  obj -1236.4822902650496 lb  -1236.4822902650496
+  scenario :  59   WS  scip statusOptimal  obj -1235.1794104916312 lb  -1235.1794104916312
+  scenario :  60   WS  scip statusOptimal  obj -1086.2973418644285 lb  -1086.2973418644285
+  scenario :  61   WS  scip statusOptimal  obj -1086.552409069179 lb  -1086.552409069179
+  scenario :  62   WS  scip statusOptimal  obj -1176.3180308900075 lb  -1176.3180308900075
+  scenario :  63   WS  scip statusOptimal  obj -1132.1529678339107 lb  -1132.1529678339107
+  scenario :  64   WS  scip statusOptimal  obj -1146.552047321207 lb  -1146.552047321207
+  scenario :  65   WS  scip statusOptimal  obj -1182.6661131583332 lb  -1182.6661131583332
+  scenario :  66   WS  scip statusOptimal  obj -1185.0472581736592 lb  -1185.0472581736592
+  scenario :  67   WS  scip statusOptimal  obj -1176.6013536818557 lb  -1176.6013536818557
+  scenario :  68   WS  scip statusOptimal  obj -1159.1278799512063 lb  -1159.1278799512063
+  scenario :  69   WS  scip statusOptimal  obj -1029.1372436386698 lb  -1029.1372436386698
+  scenario :  70   WS  scip statusOptimal  obj -1116.1596120914548 lb  -1116.1596120914548
+  scenario :  71   WS  scip statusOptimal  obj -1068.0517473083316 lb  -1068.0517473083316
+  scenario :  72   WS  scip statusOptimal  obj -1212.3336601961485 lb  -1212.3336601961485
+  scenario :  73   WS  scip statusOptimal  obj -1171.2989945679572 lb  -1171.2989945679572
+  scenario :  74   WS  scip statusOptimal  obj -1255.7251326807382 lb  -1255.7251326807382
+  scenario :  75   WS  scip statusOptimal  obj -1053.7356006447887 lb  -1053.7356006447887
+  scenario :  76   WS  scip statusOptimal  obj -1112.2556594659711 lb  -1112.2556594659711
+  scenario :  77   WS  scip statusOptimal  obj -1131.0470736072418 lb  -1131.0470736072418
+  scenario :  78   WS  scip statusOptimal  obj -1133.4682218092448 lb  -1133.4682218092448
+  scenario :  79   WS  scip statusOptimal  obj -1095.1121346219395 lb  -1095.1121346219395
+  scenario :  80   WS  scip statusOptimal  obj -1252.153728205221 lb  -1252.153728205221
+  scenario :  81   WS  scip statusOptimal  obj -1118.194543539628 lb  -1118.194543539628
+  scenario :  82   WS  scip statusOptimal  obj -1171.2128964572405 lb  -1171.2128964572405
+  scenario :  83   WS  scip statusOptimal  obj -1158.8054851956415 lb  -1158.8054851956415
+  scenario :  84   WS  scip statusOptimal  obj -1164.0543939786512 lb  -1164.0543939786512
+  scenario :  85   WS  scip statusOptimal  obj -1172.6875398290535 lb  -1172.6875398290535
+  scenario :  86   WS  scip statusOptimal  obj -1153.326852448178 lb  -1153.326852448178
+  scenario :  87   WS  scip statusOptimal  obj -1066.973181614997 lb  -1066.973181614997
+  scenario :  88   WS  scip statusOptimal  obj -1157.500484854003 lb  -1157.500484854003
+  scenario :  89   WS  scip statusOptimal  obj -1195.2854488900432 lb  -1195.2854488900432
+  scenario :  90   WS  scip statusOptimal  obj -1167.4895361995277 lb  -1167.4895361995277
+  scenario :  91   WS  scip statusOptimal  obj -1044.7013900035893 lb  -1044.7013900035893
+  scenario :  92   WS  scip statusOptimal  obj -1159.722401452602 lb  -1159.722401452602
+  scenario :  93   WS  scip statusOptimal  obj -1107.7689414553017 lb  -1107.7689414553017
+  scenario :  94   WS  scip statusOptimal  obj -1048.5805761555564 lb  -1048.5805761555564
+  scenario :  95   WS  scip statusOptimal  obj -1026.8824497311548 lb  -1026.8824497311548
+  scenario :  96   WS  scip statusOptimal  obj -1217.9044030510408 lb  -1217.9044030510408
+  scenario :  97   WS  scip statusOptimal  obj -1099.7043671484644 lb  -1099.7043671484644
+  scenario :  98   WS  scip statusOptimal  obj -1153.037792199715 lb  -1153.037792199715
+  scenario :  99   WS  scip statusOptimal  obj -1090.5567090931843 lb  -1090.5567090931843
+  scenario :  100   WS  scip statusOptimal  obj -1196.8095360328991 lb  -1196.8095360328991
+WS_status  Infeasible  WS_LB -112902.76443015643
+WS Lower time:   40.38998956 (s)
+all node solved
+Solution time:   214.096178803 (s)
+solved nodes:  1
+relax_LB_time_total:   2.888484782 (s)
+global_LB_time_total:   40.38998956 (s)
+local_UB_time_total:   5.219181103 (s)
+global_UB_time_total:   0 (s)
+BT_time_total:   158.68273736100002 (s)
+VS_time_total:   0 (s)
+1                                                     -1.1388e+05    -1.1275e+05    1.0000  % 
+first stage sol   [1.59763, 0.919927, 0.0, 0.123415, 0.0]
+LB_UB_list   Any[[-1.0e10, -1.1275e5, 2.0, 1.0]]

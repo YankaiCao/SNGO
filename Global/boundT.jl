@@ -206,6 +206,12 @@ function linearBackward!(xls, xus, lb,  ub, coeffs=nothing)
 	     coeffs_provided = false
 	  end
 	  
+	  hasInf = false
+	  if sum(xus.>=1e6)>0 || sum(xus.<=-1e6)>0 || sum(xls.>=1e6)>0 || sum(xls.<=-1e6)>0
+	      hasInf = true
+	  end
+
+	      
           if !coeffs_provided
               sum_min = sum(xls)
 	      sum_max = sum(xus)
@@ -220,10 +226,11 @@ function linearBackward!(xls, xus, lb,  ub, coeffs=nothing)
           if sum_min >= lb && sum_max <=ub
               return :unupdated
           end
-
-          if (abs(sum_min)<1e6 && abs(ub)<1e6 && (sum_min-ub) >= machine_error) || (abs(sum_max)<1e6 && abs(lb)<1e6 &&  (lb-sum_max) >= machine_error)
+	  if !hasInf
+              if (sum_min-ub) >= machine_error || (lb-sum_max) >= machine_error
              	     return :infeasible
-	  end
+	      end
+	  end   
           for j in 1:length(xls)
                   alpha = coeffs[j]
               	  xl = xls[j]
@@ -232,24 +239,38 @@ function linearBackward!(xls, xus, lb,  ub, coeffs=nothing)
 		  if abs(alpha)<=1e-6
 		      continue
 		  end
-
-                  sum_min_except = 0
-                  sum_max_except = 0
-                  for k in 1:length(xls)
-                      if k != j
-		          sum_min_except += min(coeffs[k]*xls[k], coeffs[k]*xus[k])
-                          sum_max_except += max(coeffs[k]*xls[k], coeffs[k]*xus[k])
-                      end
-                  end
                   xu_trial = xu
                   xl_trial = xl
-                  if alpha > 0
-                      xu_trial = (ub - sum_min_except)/alpha
-                      xl_trial = (lb - sum_max_except)/alpha
-                  elseif alpha < 0
-                      xl_trial = (ub - sum_min_except)/alpha
-                      xu_trial = (lb - sum_max_except)/alpha
-                  end		      
+		  if !hasInf
+              	      if alpha > 0
+                          sum_min_except = sum_min - alpha*xl
+                      	  sum_max_except = sum_max - alpha*xu
+                          xu_trial = (ub - sum_min_except)/alpha
+                          xl_trial = (lb - sum_max_except)/alpha
+              	      elseif alpha < 0
+		          sum_min_except = sum_min - alpha*xu
+                          sum_max_except = sum_max - alpha*xl
+                          xl_trial = (ub - sum_min_except)/alpha
+                          xu_trial = (lb - sum_max_except)/alpha
+                      end
+		  else
+		      ## be careful with underflow or overflow, need to fix
+		      sum_min_except = 0
+		      sum_max_except = 0
+		      for k in 1:length(xls)
+		          if k != j
+		      	      sum_min_except += min(coeffs[k]*xls[k], coeffs[k]*xus[k])		      
+			      sum_max_except += max(coeffs[k]*xls[k], coeffs[k]*xus[k])
+		          end
+		      end
+                      if alpha > 0
+                          xu_trial = (ub - sum_min_except)/alpha
+                          xl_trial = (lb - sum_max_except)/alpha
+                      elseif alpha < 0
+                          xl_trial = (ub - sum_min_except)/alpha
+                          xu_trial = (lb - sum_max_except)/alpha
+                      end		 
+		  end 		      
 
                   if (xl_trial-xl) >= (machine_error)
                       xls[j] = xl_trial
@@ -259,6 +280,22 @@ function linearBackward!(xls, xus, lb,  ub, coeffs=nothing)
                       xus[j] = xu_trial
                       status = :updated
                   end
+
+		  if !hasInf
+		      if (xl_trial-xl) >= (machine_error) || (xu-xu_trial) >= (machine_error)
+          	          if !coeffs_provided
+              	              sum_min = sum(xls)
+              	 	      sum_max = sum(xus)
+          	          else
+              	  	      sum_min = 0
+              	  	      sum_max = 0
+              	  	      for k in 1:length(xls)
+                     	          sum_min += min(coeffs[k]*xls[k], coeffs[k]*xus[k])
+                  	          sum_max += max(coeffs[k]*xls[k], coeffs[k]*xus[k])
+              		      end
+		          end
+          	      end
+		  end
 	  end
 	  return status
 end

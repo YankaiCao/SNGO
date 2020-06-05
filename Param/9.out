@@ -1,0 +1,2137 @@
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: The curly syntax (sum{},prod{},norm2{}) is deprecated in favor of the new generator syntax (sum(),prod(),norm()).
+WARNING: Replace sum{(y[numOfDisc * (i - 1)] - (data[j].abundance[1])[i + ind_start]) ^ 2, i = 1:length(t)} with sum((y[numOfDisc * (i - 1)] - (data[j].abundance[1])[i + ind_start]) ^ 2 for i = 1:length(t)).
+WARNING: Replace sum{(y[numOfDisc * (i - 1)] - (data[j].abundance[1])[i + ind_start]) ^ 2, i = 2:length(t)} with sum((y[numOfDisc * (i - 1)] - (data[j].abundance[1])[i + ind_start]) ^ 2 for i = 2:length(t)).
+WARNING: getvariable is deprecated, use getindex instead.
+Stacktrace:
+ [1] depwarn(::String, ::Symbol) at ./deprecated.jl:70
+ [2] getvariable(::JuMP.Model, ::Vararg{Any,N} where N) at ./deprecated.jl:31
+ [3] macro expansion at /home/cao27/.julia/v0.6/JuMP/src/macros.jl:422 [inlined]
+ [4] macro expansion at /home/cao27/SINGO991/Param/param9.jl:124 [inlined]
+ [5] anonymous at ./<missing>:?
+ [6] include_from_node1(::String) at ./loading.jl:569
+ [7] include(::String) at ./sysimg.jl:14
+ [8] process_options(::Base.JLOptions) at ./client.jl:305
+ [9] _start() at ./client.jl:371
+while loading /home/cao27/SINGO991/Param/param9.jl, in expression starting on line 114
+WARNING: Solver does not appear to support hot-starts. Model will be built from scratch.
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Not solved to optimality, status: Numeric
+WARNING: Nonlinear solver does not provide dual solutions
+j:   9
+npiece:   47
+[0.0, 0.5]
+[0.5, 1.0]
+[1.0, 1.5]
+[1.5, 2.0]
+[2.0, 2.5]
+[2.5, 3.0]
+[3.0, 3.5]
+[3.5, 4.0]
+[4.0, 4.5]
+[4.5, 5.0]
+[5.0, 5.5]
+[5.5, 6.0]
+[6.0, 6.5]
+[6.5, 7.0]
+[7.0, 7.5]
+[7.5, 8.0]
+[8.0, 8.5]
+[8.5, 9.0]
+[9.0, 9.5]
+[9.5, 10.0]
+[10.0, 10.5]
+[10.5, 11.0]
+[11.0, 11.5]
+[11.5, 12.0]
+[12.0, 12.5]
+[12.5, 13.0]
+[13.0, 13.5]
+[13.5, 14.0]
+[14.0, 14.5]
+[14.5, 15.0]
+[15.0, 15.5]
+[15.5, 16.0]
+[16.0, 16.5]
+[16.5, 17.0]
+[17.0, 17.5]
+[17.5, 18.0]
+[18.0, 18.5]
+[18.5, 19.0]
+[19.0, 19.5]
+[19.5, 20.0]
+[20.0, 20.5]
+[20.5, 21.0]
+[21.0, 21.5]
+[21.5, 22.0]
+[22.0, 22.5]
+[22.5, 23.0]
+[23.0, 23.5]
+No. of first stage variables  48
+No. of second stage variables 25
+No. of second stage constraints 23
+No. of scenarios  47
+No. of total variables 1082
+No. of total constraints 1080
+No. of binary variables 0
+No. of continuous variables 1082
+prime_status_trial   Optimal    38.51406445603944
+prime_status_trial   Optimal    38.51406445604076
+prime_status_trial   Optimal    38.51406445604123
+updated   true   38.51406445603944
+U:   38.51406445603944
+U:   38.51406445603944
+first:  [1, 2, 3, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4, -1]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3, 4]
+first:  [1, 2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 3]
+preprocess:   2.912046449 (s)
+extensive:   0.035558151 (s)
+No. of nonlinear variables  943
+No. of nonlinear Terms  1411
+preprocessex:   0.344569553 (s)
+U:   38.51406445603944
+additional  variables:  1411
+relax:   0.354225988 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 3.8514e+01     25964540953.4177 % 
+before feasibility reduction [0.001, -10.0, 0.0018323, 0.00126853, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.000161537, 0.000463284, 0.00132868, 0.00381056, 0.0109281, 0.0274281, 0.0451781, 0.0651781, 0.0829281, 0.106028, 0.122928, 0.139578, 0.156928, 0.174578, 0.187278, 0.201428, 0.213628, 0.225978, 0.235928, 0.254078, 0.265528, 0.272178, 0.278428, 0.287478, 0.295228, 0.300778, 0.304878, 0.310928, 0.314928]   [2.0, -0.01, 0.00544911, 0.0156279, 0.0448203, 0.0625219, 0.0623719, 0.0636719, 0.0631219, 0.0636219, 0.0619719, 0.0630719, 0.0695719, 0.0686719, 0.0707219, 0.0705219, 0.0708719, 0.0777719, 0.0854719, 0.0855719, 0.0941719, 0.106072, 0.118672, 0.134872, 0.151372, 0.169122, 0.189122, 0.206872, 0.229972, 0.246872, 0.263522, 0.280872, 0.298522, 0.311222, 0.325372, 0.337572, 0.349922, 0.359872, 0.378022, 0.389472, 0.396122, 0.402372, 0.411422, 0.419172, 0.424722, 0.428822, 0.434872, 0.438872]
+after initial feasibility reduction [0.0918668, -8.84983, 0.00204112, 0.00215622, 0.00202183, 0.00160211, 0.00123429, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000185035, 0.000137647, 0.000103611, 0.000150481, 0.000324769, 0.000744612, 0.00166312, 0.00341736, 0.00684219, 0.0128044, 0.0221685, 0.0348806, 0.0500133, 0.0654631, 0.0830124, 0.106096, 0.122996, 0.139645, 0.156995, 0.174645, 0.187345, 0.201495, 0.213695, 0.226045, 0.235995, 0.254145, 0.265595, 0.272245, 0.278495, 0.287545, 0.295295, 0.300845, 0.304945, 0.310995, 0.314995]   [1.68767, -0.0415734, 0.00424751, 0.00975861, 0.0221187, 0.0427669, 0.0525813, 0.0530736, 0.0527393, 0.0525328, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0938435, 0.10597, 0.118587, 0.134798, 0.151304, 0.169055, 0.189055, 0.206805, 0.229905, 0.246805, 0.263455, 0.280805, 0.298455, 0.311155, 0.325305, 0.337505, 0.349855, 0.359805, 0.377955, 0.389405, 0.396055, 0.402305, 0.411355, 0.419105, 0.424655, 0.428755, 0.434805, 0.438805]     time:   12.258299686 (s)
+1    0.09186680120661761    1.6876674808172014
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -8.84983, 0.00204112, 0.00215622, 0.00202183, 0.00160211, 0.00123429, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000185035, 0.000137647, 0.000103611, 0.000150481, 0.000324769, 0.000744612, 0.00166312, 0.00341736, 0.00684219, 0.0128044, 0.0221685, 0.0348806, 0.0500133, 0.0654631, 0.0830124, 0.106096, 0.122996, 0.139645, 0.156995, 0.174645, 0.187345, 0.201495, 0.213695, 0.226045, 0.235995, 0.254145, 0.265595, 0.272245, 0.278495, 0.287545, 0.295295, 0.300845, 0.304945, 0.310995, 0.314995]     [1.15573, -0.0415734, 0.00424751, 0.00975861, 0.0221187, 0.0427669, 0.0525813, 0.0530736, 0.0527393, 0.0525328, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0938435, 0.10597, 0.118587, 0.134798, 0.151304, 0.169055, 0.189055, 0.206805, 0.229905, 0.246805, 0.263455, 0.280805, 0.298455, 0.311155, 0.325305, 0.337505, 0.349855, 0.359805, 0.377955, 0.389405, 0.396055, 0.402305, 0.411355, 0.419105, 0.424655, 0.428755, 0.434805, 0.438805]
+B [0.0918668, -8.84983, 0.00204112, 0.00215622, 0.00202183, 0.00160211, 0.00123429, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000185035, 0.000137647, 0.000103611, 0.000179089, 0.00050574, 0.00114754, 0.00208094, 0.00389485, 0.0070623, 0.0128044, 0.0221685, 0.0348806, 0.0500133, 0.0654631, 0.0831155, 0.106216, 0.123116, 0.139766, 0.157116, 0.174766, 0.187466, 0.201616, 0.213816, 0.226166, 0.236116, 0.254266, 0.265716, 0.272366, 0.278616, 0.287666, 0.295416, 0.300966, 0.305066, 0.311116, 0.315116]     [1.15573, -0.0415734, 0.00344546, 0.00624808, 0.0113305, 0.0205473, 0.0372617, 0.0530736, 0.0527393, 0.0525328, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0938435, 0.105884, 0.118484, 0.134684, 0.151184, 0.168934, 0.188934, 0.206684, 0.229784, 0.246684, 0.263334, 0.280684, 0.298334, 0.311034, 0.325184, 0.337384, 0.349734, 0.359684, 0.377834, 0.389284, 0.395934, 0.402184, 0.411234, 0.418984, 0.424534, 0.428634, 0.434684, 0.438684]true
+1    0.09186680120661761    1.1557339209470068
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -8.84983, 0.00204112, 0.00215622, 0.00202183, 0.00160211, 0.00123429, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000185035, 0.000137647, 0.000103611, 0.000179089, 0.00050574, 0.00114754, 0.00208094, 0.00389485, 0.0070623, 0.0128044, 0.0221685, 0.0348806, 0.0500133, 0.0654631, 0.0831155, 0.106216, 0.123116, 0.139766, 0.157116, 0.174766, 0.187466, 0.201616, 0.213816, 0.226166, 0.236116, 0.254266, 0.265716, 0.272366, 0.278616, 0.287666, 0.295416, 0.300966, 0.305066, 0.311116, 0.315116]     [0.801112, -0.0415734, 0.00344546, 0.00624808, 0.0113305, 0.0205473, 0.0372617, 0.0530736, 0.0527393, 0.0525328, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0938435, 0.105884, 0.118484, 0.134684, 0.151184, 0.168934, 0.188934, 0.206684, 0.229784, 0.246684, 0.263334, 0.280684, 0.298334, 0.311034, 0.325184, 0.337384, 0.349734, 0.359684, 0.377834, 0.389284, 0.395934, 0.402184, 0.411234, 0.418984, 0.424534, 0.428634, 0.434684, 0.438684]
+B [0.0918668, -8.84983, 0.00204112, 0.00215622, 0.00212279, 0.00191698, 0.0013146, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000323445, 0.000486783, 0.000843187, 0.00126898, 0.00190975, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655573, 0.0833073, 0.106404, 0.123307, 0.139957, 0.157307, 0.174957, 0.187657, 0.201807, 0.214007, 0.226357, 0.236307, 0.254457, 0.265907, 0.272557, 0.278807, 0.287857, 0.295607, 0.301157, 0.305257, 0.311307, 0.315307]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.009747, 0.0146692, 0.0220773, 0.0332266, 0.0500063, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937927, 0.105693, 0.118293, 0.134493, 0.150993, 0.168743, 0.188743, 0.206493, 0.229596, 0.246493, 0.263143, 0.280493, 0.298143, 0.310843, 0.324993, 0.337193, 0.349543, 0.359493, 0.377643, 0.389093, 0.395743, 0.401993, 0.411043, 0.418793, 0.424343, 0.428443, 0.434493, 0.438493]true
+1    0.09186680120661761    0.8011115477002104
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+2    -8.849831178931426    -0.04157341976832285
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.0918668, -5.91375, 0.00204112, 0.00215622, 0.00212279, 0.00191698, 0.0013146, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000323445, 0.000486783, 0.000843187, 0.00126898, 0.00190975, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655573, 0.0833073, 0.106404, 0.123307, 0.139957, 0.157307, 0.174957, 0.187657, 0.201807, 0.214007, 0.226357, 0.236307, 0.254457, 0.265907, 0.272557, 0.278807, 0.287857, 0.295607, 0.301157, 0.305257, 0.311307, 0.315307]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.009747, 0.0146692, 0.0220773, 0.0332266, 0.0500063, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937927, 0.105693, 0.118293, 0.134493, 0.150993, 0.168743, 0.188743, 0.206493, 0.229596, 0.246493, 0.263143, 0.280493, 0.298143, 0.310843, 0.324993, 0.337193, 0.349543, 0.359493, 0.377643, 0.389093, 0.395743, 0.401993, 0.411043, 0.418793, 0.424343, 0.428443, 0.434493, 0.438493]
+B [0.0918668, -5.91375, 0.00204112, 0.00215622, 0.00216759, 0.00206535, 0.00169978, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000323445, 0.000560263, 0.000843187, 0.00126898, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655765, 0.0833265, 0.106426, 0.123322, 0.139976, 0.157326, 0.174976, 0.187676, 0.201826, 0.214026, 0.226376, 0.236326, 0.254476, 0.265926, 0.272576, 0.278826, 0.287876, 0.295626, 0.301176, 0.305276, 0.311326, 0.315326]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.00974698, 0.0146692, 0.0220772, 0.0332264, 0.0500061, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937735, 0.105674, 0.118274, 0.134474, 0.150974, 0.168724, 0.188724, 0.206474, 0.229574, 0.246478, 0.263124, 0.280474, 0.298124, 0.310824, 0.324974, 0.337174, 0.349524, 0.359474, 0.377624, 0.389074, 0.395724, 0.401974, 0.411024, 0.418774, 0.424324, 0.428424, 0.434474, 0.438474]true
+2    -5.913745259210392    -0.04157341976832285
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.0918668, -3.95635, 0.00204112, 0.00215622, 0.00216759, 0.00206535, 0.00169978, 0.000945984, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000323445, 0.000560263, 0.000843187, 0.00126898, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655765, 0.0833265, 0.106426, 0.123322, 0.139976, 0.157326, 0.174976, 0.187676, 0.201826, 0.214026, 0.226376, 0.236326, 0.254476, 0.265926, 0.272576, 0.278826, 0.287876, 0.295626, 0.301176, 0.305276, 0.311326, 0.315326]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.00974698, 0.0146692, 0.0220772, 0.0332264, 0.0500061, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937735, 0.105674, 0.118274, 0.134474, 0.150974, 0.168724, 0.188724, 0.206474, 0.229574, 0.246478, 0.263124, 0.280474, 0.298124, 0.310824, 0.324974, 0.337174, 0.349524, 0.359474, 0.377624, 0.389074, 0.395724, 0.401974, 0.411024, 0.418774, 0.424324, 0.428424, 0.434474, 0.438474]
+B [0.0918668, -3.95635, 0.00204112, 0.00215622, 0.00219745, 0.00216426, 0.00195656, 0.00134733, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000843187, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655907, 0.0833407, 0.106434, 0.123341, 0.139991, 0.157341, 0.174991, 0.187691, 0.201841, 0.214041, 0.226391, 0.236341, 0.254491, 0.265941, 0.272591, 0.278841, 0.287891, 0.295641, 0.301191, 0.305291, 0.311341, 0.315341]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.00974697, 0.0146692, 0.0220772, 0.0332263, 0.0500059, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937593, 0.105659, 0.118259, 0.134459, 0.150959, 0.168709, 0.188709, 0.206459, 0.229566, 0.246459, 0.263109, 0.280459, 0.298109, 0.310809, 0.324959, 0.337159, 0.349509, 0.359459, 0.377609, 0.389059, 0.395709, 0.401959, 0.411009, 0.418759, 0.424309, 0.428409, 0.434459, 0.438459]true
+2    -3.956354646063036    -0.04157341976832285
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00219745, 0.00216426, 0.00195656, 0.00134733, 0.000725907, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000843187, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655907, 0.0833407, 0.106434, 0.123341, 0.139991, 0.157341, 0.174991, 0.187691, 0.201841, 0.214041, 0.226391, 0.236341, 0.254491, 0.265941, 0.272591, 0.278841, 0.287891, 0.295641, 0.301191, 0.305291, 0.311341, 0.315341]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647644, 0.00974697, 0.0146692, 0.0220772, 0.0332263, 0.0500059, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937593, 0.105659, 0.118259, 0.134459, 0.150959, 0.168709, 0.188709, 0.206459, 0.229566, 0.246459, 0.263109, 0.280459, 0.298109, 0.310809, 0.324959, 0.337159, 0.349509, 0.359459, 0.377609, 0.389059, 0.395709, 0.401959, 0.411009, 0.418759, 0.424309, 0.428409, 0.434459, 0.438459]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00221736, 0.00223021, 0.00212775, 0.00175794, 0.000776043, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000843187, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655991, 0.0833491, 0.106441, 0.123349, 0.139999, 0.157349, 0.174999, 0.187699, 0.201849, 0.214049, 0.226399, 0.236349, 0.254499, 0.265949, 0.272599, 0.278849, 0.287899, 0.295649, 0.301199, 0.305299, 0.311349, 0.315349]     [0.801112, -0.0415734, 0.00285942, 0.00430334, 0.00647643, 0.00974696, 0.0146691, 0.0220771, 0.0332262, 0.0500057, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937509, 0.105651, 0.118251, 0.134451, 0.150951, 0.168701, 0.188701, 0.206451, 0.229559, 0.246451, 0.263101, 0.280451, 0.298101, 0.310801, 0.324951, 0.337151, 0.349501, 0.359451, 0.377601, 0.389051, 0.395701, 0.401951, 0.411001, 0.418751, 0.424301, 0.428401, 0.434451, 0.438451]true
+2    -2.6514275706314647    -0.04157341976832285
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+3    0.002041116244689244    0.002859418097539947
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+4    0.002156221631960743    0.004303336345242385
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+5    0.002217359690084369    0.006476434462514146
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+6    0.002230205969835255    0.009746962329829764
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+7    0.0021277510286649313    0.014669142130946876
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+8    0.0017579355721963389    0.022077089654659154
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+9    0.0007760431246652107    0.03322617191409504
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00232039, 0.00055622, 0.000429351, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000843187, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0655991, 0.0833491, 0.106441, 0.123349, 0.139999, 0.157349, 0.174999, 0.187699, 0.201849, 0.214049, 0.226399, 0.236349, 0.254499, 0.265949, 0.272599, 0.278849, 0.287899, 0.295649, 0.301199, 0.305299, 0.311349, 0.315349]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220664, 0.0224095, 0.0500057, 0.0524827, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937509, 0.105651, 0.118251, 0.134451, 0.150951, 0.168701, 0.188701, 0.206451, 0.229559, 0.246451, 0.263101, 0.280451, 0.298101, 0.310801, 0.324951, 0.337151, 0.349501, 0.359451, 0.377601, 0.389051, 0.395701, 0.401951, 0.411001, 0.418751, 0.424301, 0.428401, 0.434451, 0.438451]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00232039, 0.0013327, 0.000429351, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0656047, 0.0833547, 0.106446, 0.123355, 0.140005, 0.157355, 0.175005, 0.187705, 0.201855, 0.214055, 0.226405, 0.236355, 0.254505, 0.265955, 0.272605, 0.278855, 0.287905, 0.295655, 0.301205, 0.305305, 0.311355, 0.315355]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337263, 0.0507585, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937453, 0.105645, 0.118245, 0.134445, 0.150945, 0.168695, 0.188695, 0.206445, 0.229554, 0.246445, 0.263095, 0.280445, 0.298095, 0.310795, 0.324945, 0.337145, 0.349495, 0.359445, 0.377595, 0.389045, 0.395695, 0.401945, 0.410995, 0.418745, 0.424295, 0.428395, 0.434445, 0.438445]true
+9    0.0023203857502885907    0.02240946231761843
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+10    0.0013326964079452665    0.03372634746762833
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+11    0.00042935079702379435    0.05075845520614664
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00202422, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0656047, 0.0833547, 0.106446, 0.123355, 0.140005, 0.157355, 0.175005, 0.187705, 0.201855, 0.214055, 0.226405, 0.236355, 0.254505, 0.265955, 0.272605, 0.278855, 0.287905, 0.295655, 0.301205, 0.305305, 0.311355, 0.315355]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0555985, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0937453, 0.105645, 0.118245, 0.134445, 0.150945, 0.168695, 0.188695, 0.206445, 0.229554, 0.246445, 0.263095, 0.280445, 0.298095, 0.310795, 0.324945, 0.337145, 0.349495, 0.359445, 0.377595, 0.389045, 0.395695, 0.401945, 0.410995, 0.418745, 0.424295, 0.428395, 0.434445, 0.438445]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00202422, 0.000330533, 0.000247682, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0656534, 0.0834034, 0.106488, 0.123403, 0.140053, 0.157403, 0.175053, 0.187753, 0.201903, 0.214103, 0.226453, 0.236403, 0.254553, 0.266003, 0.272653, 0.278903, 0.287953, 0.295703, 0.301253, 0.305353, 0.311403, 0.315403]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0511433, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0936966, 0.105597, 0.118197, 0.134397, 0.150897, 0.168647, 0.188647, 0.206397, 0.229512, 0.246397, 0.263047, 0.280397, 0.298047, 0.310747, 0.324897, 0.337097, 0.349447, 0.359397, 0.377547, 0.388997, 0.395647, 0.401897, 0.410947, 0.418697, 0.424247, 0.428347, 0.434397, 0.438397]true
+11    0.002024223717499013    0.03398208706977236
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+12    0.0003305329668830412    0.05114331065909699
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00191141, 0.000247682, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0656534, 0.0834034, 0.106488, 0.123403, 0.140053, 0.157403, 0.175053, 0.187753, 0.201903, 0.214103, 0.226453, 0.236403, 0.254553, 0.266003, 0.272653, 0.278903, 0.287953, 0.295703, 0.301253, 0.305353, 0.311403, 0.315403]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0587058, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0936966, 0.105597, 0.118197, 0.134397, 0.150897, 0.168647, 0.188647, 0.206397, 0.229512, 0.246397, 0.263047, 0.280397, 0.298047, 0.310747, 0.324897, 0.337097, 0.349447, 0.359397, 0.377547, 0.388997, 0.395647, 0.401897, 0.410947, 0.418697, 0.424247, 0.428347, 0.434397, 0.438397]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00191141, 0.000247682, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657401, 0.0834901, 0.106566, 0.12349, 0.14014, 0.15749, 0.17514, 0.18784, 0.20199, 0.21419, 0.22654, 0.23649, 0.25464, 0.26609, 0.27274, 0.27899, 0.28804, 0.29579, 0.30134, 0.30544, 0.31149, 0.31549]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0514799, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0936099, 0.10551, 0.11811, 0.13431, 0.15081, 0.16856, 0.18856, 0.20631, 0.229434, 0.24631, 0.26296, 0.28031, 0.29796, 0.31066, 0.32481, 0.33701, 0.34936, 0.35931, 0.37746, 0.38891, 0.39556, 0.40181, 0.41086, 0.41861, 0.42416, 0.42826, 0.43431, 0.43831]true
+12    0.0019114093093122125    0.03420571809502568
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   74.78208086339731  UB  38.51406445603944
+13    0.00024768225740612717    0.05147988354022882
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00179298, 0.000372269, 0.000560263, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657401, 0.0834901, 0.106566, 0.12349, 0.14014, 0.15749, 0.17514, 0.18784, 0.20199, 0.21419, 0.22654, 0.23649, 0.25464, 0.26609, 0.27274, 0.27899, 0.28804, 0.29579, 0.30134, 0.30544, 0.31149, 0.31549]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0610174, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0936099, 0.10551, 0.11811, 0.13431, 0.15081, 0.16856, 0.18856, 0.20631, 0.229434, 0.24631, 0.26296, 0.28031, 0.29796, 0.31066, 0.32481, 0.33701, 0.34936, 0.35931, 0.37746, 0.38891, 0.39556, 0.40181, 0.41086, 0.41861, 0.42416, 0.42826, 0.43431, 0.43831]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00179298, 0.000372269, 0.000586137, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657839, 0.0835339, 0.106604, 0.123534, 0.140184, 0.157534, 0.175184, 0.187884, 0.202034, 0.214234, 0.226584, 0.236534, 0.254684, 0.266134, 0.272784, 0.279034, 0.288084, 0.295834, 0.301384, 0.305484, 0.311534, 0.315534]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.051776, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0935661, 0.105466, 0.118066, 0.134266, 0.150766, 0.168516, 0.188516, 0.206266, 0.229396, 0.246266, 0.262916, 0.280266, 0.297916, 0.310616, 0.324766, 0.336966, 0.349316, 0.359266, 0.377416, 0.388866, 0.395516, 0.401766, 0.410816, 0.418566, 0.424116, 0.428216, 0.434266, 0.438266]true
+13    0.0017929814578019761    0.03440248311262126
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   32.05915977578195  UB  38.51406445603944
+14    0.0003722691039722938    0.05177602157267732
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00166367, 0.000586137, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657839, 0.0835339, 0.106604, 0.123534, 0.140184, 0.157534, 0.175184, 0.187884, 0.202034, 0.214234, 0.226584, 0.236534, 0.254684, 0.266134, 0.272784, 0.279034, 0.288084, 0.295834, 0.301384, 0.305484, 0.311534, 0.315534]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.0617396, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0935661, 0.105466, 0.118066, 0.134266, 0.150766, 0.168516, 0.188516, 0.206266, 0.229396, 0.246266, 0.262916, 0.280266, 0.297916, 0.310616, 0.324766, 0.336966, 0.349316, 0.359266, 0.377416, 0.388866, 0.395516, 0.401766, 0.410816, 0.418566, 0.424116, 0.428216, 0.434266, 0.438266]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00166367, 0.000586137, 0.000882127, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657916, 0.0835416, 0.106611, 0.123542, 0.140192, 0.157542, 0.175192, 0.187892, 0.202042, 0.214242, 0.226592, 0.236542, 0.254692, 0.266142, 0.272792, 0.279042, 0.288092, 0.295842, 0.301392, 0.305492, 0.311542, 0.315542]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.0521357, 0.0623149, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0935584, 0.105458, 0.118058, 0.134258, 0.150758, 0.168508, 0.188508, 0.206258, 0.229389, 0.246258, 0.262908, 0.280258, 0.297908, 0.310608, 0.324758, 0.336958, 0.349308, 0.359258, 0.377408, 0.388858, 0.395508, 0.401758, 0.410808, 0.418558, 0.424108, 0.428208, 0.434258, 0.438258]true
+14    0.0016636738510193772    0.03464143741644231
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   27.224339171931046  UB  38.51406445603944
+15    0.0005861367871317477    0.05213565327534112
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+16    0.0008821270371342676    0.06231492135692998
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00185809, 0.00152493, 0.00098626, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657916, 0.0835416, 0.106611, 0.123542, 0.140192, 0.157542, 0.175192, 0.187892, 0.202042, 0.214242, 0.226592, 0.236542, 0.254692, 0.266142, 0.272792, 0.279042, 0.288092, 0.295842, 0.301392, 0.305492, 0.311542, 0.315542]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.0521135, 0.0418373, 0.0654872, 0.0724512, 0.0786475, 0.0844971, 0.0935584, 0.105458, 0.118058, 0.134258, 0.150758, 0.168508, 0.188508, 0.206258, 0.229389, 0.246258, 0.262908, 0.280258, 0.297908, 0.310608, 0.324758, 0.336958, 0.349308, 0.359258, 0.377408, 0.388858, 0.395508, 0.401758, 0.410808, 0.418558, 0.424108, 0.428208, 0.434258, 0.438258]
+B [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00185809, 0.00152493, 0.00098626, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0500133, 0.0657944, 0.0835444, 0.106613, 0.123544, 0.140194, 0.157544, 0.175194, 0.187894, 0.202044, 0.214244, 0.226594, 0.236544, 0.254694, 0.266144, 0.272794, 0.279044, 0.288094, 0.295844, 0.301394, 0.305494, 0.311544, 0.315544]     [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.042248, 0.0418373, 0.0629655, 0.0724512, 0.0786475, 0.0844971, 0.0935556, 0.105456, 0.118056, 0.134256, 0.150756, 0.168506, 0.188506, 0.206256, 0.229387, 0.246256, 0.262906, 0.280256, 0.297906, 0.310606, 0.324756, 0.336956, 0.349306, 0.359256, 0.377406, 0.388856, 0.395506, 0.401756, 0.410806, 0.418556, 0.424106, 0.428206, 0.434256, 0.438256]true
+16    0.000986259991983063    0.041837323250331404
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   36.376949553648046  UB  38.51406445603944
+17    0.001327577177991926    0.06296551733541095
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+18    0.001997943217556261    0.07245117601625975
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+19    0.0030067585641807976    0.07864749420977175
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+20    0.004524827340525092    0.08449711176816606
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Suboptimal relaxed_LB   -1.0e10  UB  38.51406445603944
+21    0.006809064848100873    0.09355557529601274
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   177.09541374998332  UB  38.51406445603944
+22    0.010245799442139684    0.10545557529601274
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   171.39781963176745  UB  38.51406445603944
+23    0.015415708659644037    0.11805557529601274
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   149.8397078845046  UB  38.51406445603944
+24    0.02319102082385768    0.13425557529601273
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   147.01178419620118  UB  38.51406445603944
+25    0.0348806128889098    0.15075557529601272
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   127.9337185725145  UB  38.51406445603944
+26    0.05001326507553678    0.16850557529601273
+relaxed_status  Optimal relaxed_LB   172.20154255935304  UB  38.51406445603944
+update P.colLower
+updated point0.0581301226364809xl0.05001326507553678   dual -16470.3491590856
+relaxed_status  Optimal relaxed_LB   111.43331104675147  UB  38.51406445603944
+27    0.06579442470398728    0.18850557529601275
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   104.59812711647513  UB  38.51406445603944
+28    0.08354442470398724    0.20625557529601277
+relaxed_status  Numeric relaxed_LB   -1.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   76.71747064289288  UB  38.51406445603944
+29    0.10661325618903489    0.22938674381096513
+relaxed_status  Optimal relaxed_LB   109.54398128427866  UB  38.51406445603944
+update P.colLower
+updated point0.11202065560149552xl0.10661325618903489   dual -13135.68897177455
+relaxed_status  Optimal relaxed_LB   88.3455155779807  UB  38.51406445603944
+30    0.12354442470398515    0.24625557529601488
+relaxed_status  Optimal relaxed_LB   116.41027501455383  UB  38.51406445603944
+update P.colLower
+updated point0.12896670170531355xl0.12354442470398515   dual -14365.959271249052
+relaxed_status  Optimal relaxed_LB   71.8017617603272  UB  38.51406445603944
+31    0.1401944247039868    0.2629055752960132
+relaxed_status  Optimal relaxed_LB   117.22000793915088  UB  38.51406445603944
+update P.colLower
+updated point0.14558376373536847xl0.1401944247039868   dual -14604.006729733119
+relaxed_status  Optimal relaxed_LB   63.67572519031792  UB  38.51406445603944
+32    0.15754442470398705    0.28025557529601297
+relaxed_status  Optimal relaxed_LB   99.05574016936052  UB  38.51406445603944
+update P.colLower
+updated point0.1621515690626478xl0.15754442470398705   dual -13140.824554262475
+relaxed_status  Optimal relaxed_LB   56.84189473177837  UB  38.51406445603944
+33    0.17519442470398705    0.29790557529601297
+relaxed_status  Optimal relaxed_LB   78.55923636105581  UB  38.51406445603944
+update P.colLower
+updated point0.17985777934852837xl0.17519442470398705   dual -8587.202766551556
+relaxed_status  Optimal relaxed_LB   57.44269571286027  UB  38.51406445603944
+34    0.1878944247039872    0.3106055752960128
+relaxed_status  Optimal relaxed_LB   84.05025680961458  UB  38.51406445603944
+update P.colLower
+updated point0.1930203158466296xl0.1878944247039872   dual -8883.56601543068
+relaxed_status  Optimal relaxed_LB   39.80160607140776  UB  38.51406445603944
+35    0.20204442470398726    0.3247555752960128
+relaxed_status  Optimal relaxed_LB   74.8548724190722  UB  38.51406445603944
+update P.colLower
+updated point0.20596903123624236xl0.20204442470398726   dual -9259.732832924547
+relaxed_status  Optimal relaxed_LB   38.95477109241237  UB  38.51406445603944
+36    0.21424442470398725    0.3369555752960128
+relaxed_status  Optimal relaxed_LB   73.70986410717407  UB  38.51406445603944
+update P.colLower
+updated point0.21791500163329394xl0.21424442470398725   dual -9588.628798411388
+relaxed_status  Optimal relaxed_LB   38.80078228202041  UB  38.51406445603944
+37    0.22659442470398722    0.34930557529601275
+relaxed_status  Optimal relaxed_LB   65.52339240513055  UB  38.51406445603944
+update P.colLower
+updated point0.22931327113405106xl0.22659442470398722   dual -9934.113104158248
+relaxed_status  Optimal relaxed_LB   38.7924289895508  UB  38.51406445603944
+38    0.23654442470398723    0.35925557529601276
+relaxed_status  Optimal relaxed_LB   78.87367650659941  UB  38.51406445603944
+update P.colLower
+updated point0.24051637234657852xl0.23654442470398723   dual -10161.164164850252
+relaxed_status  Optimal relaxed_LB   38.70090068519209  UB  38.51406445603944
+39    0.25469442470398723    0.37740557529601276
+relaxed_status  Optimal relaxed_LB   50.64985463667328  UB  38.51406445603944
+update P.colLower
+updated point0.2558730466504258xl0.25469442470398723   dual -10296.592743164318
+relaxed_status  Optimal relaxed_LB   38.805796843788904  UB  38.51406445603944
+40    0.26614442470398714    0.3888555752960129
+relaxed_status  Optimal relaxed_LB   46.041461342114005  UB  38.51406445603944
+update P.colLower
+updated point0.2668604649886708xl0.26614442470398714   dual -10512.532670421462
+relaxed_status  Optimal relaxed_LB   38.73070473896274  UB  38.51406445603944
+41    0.2727944247039873    0.3955055752960127
+relaxed_status  Optimal relaxed_LB   48.132581898433614  UB  38.51406445603944
+update P.colLower
+updated point0.2736974262972088xl0.2727944247039873   dual -10651.717023089566
+relaxed_status  Optimal relaxed_LB   38.67484288577618  UB  38.51406445603944
+42    0.27904442470398727    0.4017555752960127
+relaxed_status  Optimal relaxed_LB   50.881781772272824  UB  38.51406445603944
+update P.colLower
+updated point0.2801893314035941xl0.27904442470398727   dual -10802.38007208837
+relaxed_status  Optimal relaxed_LB   38.65406617186644  UB  38.51406445603944
+43    0.2880944247039873    0.4108055752960127
+relaxed_status  Optimal relaxed_LB   42.04644671378048  UB  38.51406445603944
+update P.colLower
+updated point0.2884157168769656xl0.2880944247039873   dual -10994.29912965558
+relaxed_status  Optimal relaxed_LB   38.678236026660734  UB  38.51406445603944
+44    0.2958444247039873    0.4185555752960127
+relaxed_status  Optimal relaxed_LB   38.73001274454598  UB  38.51406445603944
+update P.colLower
+updated point0.2958743400601135xl0.2958444247039873   dual -7218.643414964834
+relaxed_status  Optimal relaxed_LB   38.66680765878728  UB  38.51406445603944
+45    0.3013944247039873    0.4241055752960127
+relaxed_status  Optimal relaxed_LB   38.68864900343443  UB  38.51406445603944
+update P.colLower
+updated point0.3014183498071263xl0.3013944247039873   dual -7297.128308325725
+relaxed_status  Optimal relaxed_LB   38.64645564998574  UB  38.51406445603944
+46    0.3054944247039873    0.4282055752960127
+relaxed_status  Optimal relaxed_LB   38.756679859084805  UB  38.51406445603944
+update P.colLower
+updated point0.30552707127292267xl0.3054944247039873   dual -7431.574311089843
+relaxed_status  Optimal relaxed_LB   38.621972469504406  UB  38.51406445603944
+47    0.3115444247039873    0.4342555752960127
+relaxed_status  Optimal relaxed_LB   38.65743710035345  UB  38.51406445603944
+update P.colLower
+updated point0.31156357137900975xl0.3115444247039873   dual -7488.122305621397
+relaxed_status  Optimal relaxed_LB   38.64269558873793  UB  38.51406445603944
+48    0.3155444247039873    0.4382555752960127
+relaxed_status  Optimal relaxed_LB   38.65050083416573  UB  38.51406445603944
+update P.colLower
+updated point0.31556245329198596xl0.3155444247039873   dual -7567.779469832509
+relaxed_status  Optimal relaxed_LB   38.62339712041974  UB  38.51406445603944
+after probing [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00185809, 0.00152493, 0.00146192, 0.00132758, 0.00199794, 0.00300676, 0.00452483, 0.00680906, 0.0102458, 0.0154157, 0.023191, 0.0348806, 0.0581301, 0.065798, 0.083548, 0.112021, 0.128967, 0.145584, 0.162152, 0.179858, 0.19302, 0.205969, 0.217915, 0.229313, 0.240516, 0.255873, 0.26686, 0.273697, 0.280189, 0.288416, 0.295874, 0.301418, 0.305527, 0.311564, 0.315562]   [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.042248, 0.0418373, 0.0584436, 0.0615867, 0.0718759, 0.0786401, 0.0891305, 0.102549, 0.116988, 0.133992, 0.150684, 0.168432, 0.18844, 0.206196, 0.229296, 0.246206, 0.262865, 0.280223, 0.29788, 0.310589, 0.324747, 0.336952, 0.349302, 0.359252, 0.377402, 0.388852, 0.395502, 0.401752, 0.410802, 0.418552, 0.424102, 0.428202, 0.434252, 0.438252]
+probing time:   1298.062291256 (s)true
+added con      253
+relaxed_LB_trial       1.1263075453293019
+added con      241
+relaxed_LB_trial       1.2098965596613422
+added con      222
+relaxed_LB_trial       1.2815629377668434
+added con      191
+relaxed_LB_trial       1.2999524518806946
+added con      183
+relaxed_LB_trial       1.3017486947884234
+added con      174
+relaxed_LB_trial       1.3022435329676059
+added con      169
+relaxed_LB_trial       1.3023376285515755
+added con      147
+relaxed_LB_trial       1.3023376285515789
+added con      148
+relaxed_LB_trial       1.3023376285515975
+added con      141
+relaxed_LB_trial       1.3023376285515864
+added con      138
+relaxed_LB_trial       1.3023376285515864
+added con      137
+relaxed_LB_trial       1.3023376285515835
+added con      137
+relaxed_LB_trial       1.3023376285515835
+added con      137
+relaxed_LB_trial       1.3023376285515835
+iterative relax time:   1.391034549 (s)Optimal    1.3023376285515835
+relaxed_LB  1.3023376285515835
+after multiplier medium feasibility reduction [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00185809, 0.00152493, 0.00146192, 0.00147191, 0.00221515, 0.00333362, 0.00501667, 0.0075491, 0.0113591, 0.0170903, 0.025709, 0.0386652, 0.0581301, 0.0661486, 0.0838986, 0.112021, 0.128967, 0.145584, 0.162152, 0.179858, 0.19302, 0.205969, 0.217915, 0.229313, 0.240516, 0.255873, 0.26686, 0.273697, 0.280189, 0.288449, 0.296199, 0.301749, 0.305849, 0.311899, 0.315899]   [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.042248, 0.0418373, 0.0584436, 0.0615867, 0.0718759, 0.0786401, 0.0891305, 0.102549, 0.116988, 0.133992, 0.150684, 0.168151, 0.188151, 0.205901, 0.229001, 0.245901, 0.262551, 0.279901, 0.297551, 0.310251, 0.324401, 0.336601, 0.348951, 0.358901, 0.377051, 0.388501, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]
+reduction_relax0.17720432411906573
+before feasibility reduction [0.0918668, -2.65143, 0.00204112, 0.00215622, 0.00224039, 0.00231631, 0.00237269, 0.00238762, 0.00239248, 0.00230958, 0.00220461, 0.00209404, 0.00197869, 0.00185809, 0.00152493, 0.00146192, 0.00147191, 0.00221515, 0.00333362, 0.00501667, 0.0075491, 0.0113591, 0.0170903, 0.025709, 0.0386652, 0.0581301, 0.0661486, 0.0838986, 0.112021, 0.128967, 0.145584, 0.162152, 0.179858, 0.19302, 0.205969, 0.217915, 0.229313, 0.240516, 0.255873, 0.26686, 0.273697, 0.280189, 0.288449, 0.296199, 0.301749, 0.305849, 0.311899, 0.315899]   [0.801112, -0.0415734, 0.0028594, 0.00430319, 0.00647588, 0.0097453, 0.0146648, 0.0220437, 0.0224095, 0.0337169, 0.0339821, 0.0342057, 0.0344025, 0.0346414, 0.042248, 0.0418373, 0.0584436, 0.0615867, 0.0718759, 0.0786401, 0.0891305, 0.102549, 0.116988, 0.133992, 0.150684, 0.168151, 0.188151, 0.205901, 0.229001, 0.245901, 0.262551, 0.279901, 0.297551, 0.310251, 0.324401, 0.336601, 0.348951, 0.358901, 0.377051, 0.388501, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]
+after initial feasibility reduction [0.18056, -2.19771, 0.00213423, 0.00239443, 0.0026826, 0.00300089, 0.00334426, 0.00371163, 0.00410276, 0.00451013, 0.00492422, 0.00536382, 0.00583043, 0.00633114, 0.00682316, 0.00739673, 0.00836238, 0.0101392, 0.0122523, 0.0148139, 0.0186293, 0.024459, 0.0320805, 0.0416409, 0.0532597, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]   [0.615615, -0.237989, 0.00248944, 0.0032794, 0.00433366, 0.00572825, 0.00754387, 0.00983995, 0.0127133, 0.0161477, 0.019909, 0.0234818, 0.0269845, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358883, 0.374573, 0.387786, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]     time:   9.125696278 (s)
+1    0.1805601376915424    0.6156150678282113
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.18056, -2.19771, 0.00213423, 0.00239443, 0.0026826, 0.00300089, 0.00334426, 0.00371163, 0.00410276, 0.00451013, 0.00492422, 0.00536382, 0.00583043, 0.00633114, 0.00682316, 0.00739673, 0.00836238, 0.0101392, 0.0122523, 0.0148139, 0.0186293, 0.024459, 0.0320805, 0.0416409, 0.0532597, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.470597, -0.237989, 0.00248944, 0.0032794, 0.00433366, 0.00572825, 0.00754387, 0.00983995, 0.0127133, 0.0161477, 0.019909, 0.0234818, 0.0269845, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358883, 0.374573, 0.387786, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]
+B [0.18056, -2.19771, 0.00213423, 0.00239443, 0.0026826, 0.00300089, 0.00334426, 0.00371163, 0.00410276, 0.00451013, 0.00492422, 0.00536382, 0.00583043, 0.00633114, 0.00682316, 0.00739673, 0.00836238, 0.0102885, 0.0130358, 0.0165106, 0.0209014, 0.0264438, 0.0335389, 0.0423581, 0.0534312, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.470597, -0.237989, 0.00241027, 0.00305759, 0.00387876, 0.00492048, 0.00624201, 0.00791851, 0.0100454, 0.0127436, 0.0161668, 0.0205097, 0.0260197, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358883, 0.374573, 0.387786, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]true
+1    0.1805601376915424    0.470596757782655
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+infeasible 1
+A [0.277239, -2.19771, 0.00213423, 0.00239443, 0.0026826, 0.00300089, 0.00334426, 0.00371163, 0.00410276, 0.00451013, 0.00492422, 0.00536382, 0.00583043, 0.00633114, 0.00682316, 0.00739673, 0.00836238, 0.0102885, 0.0130358, 0.0165106, 0.0209014, 0.0264438, 0.0335389, 0.0423581, 0.0534312, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.470597, -0.237989, 0.00241027, 0.00305759, 0.00387876, 0.00492048, 0.00624201, 0.00791851, 0.0100454, 0.0127436, 0.0161668, 0.0205097, 0.0260197, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358883, 0.374573, 0.387786, 0.395151, 0.401401, 0.410451, 0.418201, 0.423751, 0.427851, 0.433901, 0.437901]
+B [0.277239, -2.19771, 0.00217903, 0.00249646, 0.00285595, 0.00326048, 0.00371142, 0.00420708, 0.00474025, 0.00529417, 0.00583593, 0.00630574, 0.00659954, 0.00658517, 0.00682316, 0.00739673, 0.00836238, 0.0102885, 0.0130358, 0.0165106, 0.0209014, 0.0265301, 0.0335389, 0.0423581, 0.0534312, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.470597, -0.237989, 0.00241025, 0.00305749, 0.00387852, 0.00491998, 0.00624105, 0.00791681, 0.0100425, 0.012739, 0.0161597, 0.0204993, 0.0260049, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358216, 0.374573, 0.387786, 0.394466, 0.400716, 0.409766, 0.417516, 0.423066, 0.427166, 0.433216, 0.437216]true
+1    0.27723901105524656    0.470596757782655
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+infeasible 1
+A [0.277239, -2.19771, 0.00217903, 0.00249646, 0.00285595, 0.00326048, 0.00371142, 0.00420708, 0.00474025, 0.00529417, 0.00583593, 0.00630574, 0.00659954, 0.00658517, 0.00682316, 0.00739673, 0.00836238, 0.0102885, 0.0130358, 0.0165106, 0.0209014, 0.0265301, 0.0335389, 0.0423581, 0.0534312, 0.0672958, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.406144, -0.237989, 0.00241025, 0.00305749, 0.00387852, 0.00491998, 0.00624105, 0.00791681, 0.0100425, 0.012739, 0.0161597, 0.0204993, 0.0260049, 0.0308663, 0.0348543, 0.0395814, 0.0447887, 0.0503852, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358216, 0.374573, 0.387786, 0.394466, 0.400716, 0.409766, 0.417516, 0.423066, 0.427166, 0.433216, 0.437216]
+B [0.277239, -2.19771, 0.00217924, 0.00249758, 0.00285951, 0.00326946, 0.00373151, 0.00424873, 0.0048223, 0.00544993, 0.00612364, 0.00682602, 0.00752484, 0.00816448, 0.0086531, 0.00916236, 0.0112348, 0.0137722, 0.0168768, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.406144, -0.237989, 0.00233212, 0.00286246, 0.00351335, 0.00431216, 0.0052925, 0.00649559, 0.00797203, 0.00978391, 0.0120074, 0.0147362, 0.0180851, 0.0221952, 0.0272401, 0.0334329, 0.0410324, 0.0503554, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358061, 0.374573, 0.387661, 0.394311, 0.400561, 0.409611, 0.417361, 0.422911, 0.427011, 0.433061, 0.437061]true
+1    0.27723901105524656    0.4061441755401855
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   60.030097713598884  UB  38.51406445603944
+infeasible 1
+A [0.320207, -2.19771, 0.00217924, 0.00249758, 0.00285951, 0.00326946, 0.00373151, 0.00424873, 0.0048223, 0.00544993, 0.00612364, 0.00682602, 0.00752484, 0.00816448, 0.0086531, 0.00916236, 0.0112348, 0.0137722, 0.0168768, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.406144, -0.237989, 0.00233212, 0.00286246, 0.00351335, 0.00431216, 0.0052925, 0.00649559, 0.00797203, 0.00978391, 0.0120074, 0.0147362, 0.0180851, 0.0221952, 0.0272401, 0.0334329, 0.0410324, 0.0503554, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.358061, 0.374573, 0.387661, 0.394311, 0.400561, 0.409611, 0.417361, 0.422911, 0.427011, 0.433061, 0.437061]
+B [0.320207, -2.19771, 0.00222735, 0.00260927, 0.00305394, 0.00357023, 0.00416754, 0.00485527, 0.0056421, 0.00653458, 0.00753496, 0.00863767, 0.0098238, 0.0110525, 0.0122479, 0.0132784, 0.013926, 0.0138383, 0.0168768, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.406144, -0.237989, 0.0023321, 0.00286239, 0.00351315, 0.00431171, 0.00529157, 0.00649385, 0.00796896, 0.00977869, 0.0119989, 0.0147225, 0.0180637, 0.0221627, 0.0271914, 0.0333618, 0.0409344, 0.0502307, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.357053, 0.374573, 0.386653, 0.393303, 0.399553, 0.408603, 0.416353, 0.421903, 0.426003, 0.432053, 0.436053]true
+1    0.3202073992168929    0.4061441755401855
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+2    -2.1977109027447077    -0.23798900155050773
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.320207, -1.54447, 0.00222735, 0.00260927, 0.00305394, 0.00357023, 0.00416754, 0.00485527, 0.0056421, 0.00653458, 0.00753496, 0.00863767, 0.0098238, 0.0110525, 0.0122479, 0.0132784, 0.013926, 0.0138383, 0.0168768, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.314975, 0.31892]     [0.406144, -0.237989, 0.0023321, 0.00286239, 0.00351315, 0.00431171, 0.00529157, 0.00649385, 0.00796896, 0.00977869, 0.0119989, 0.0147225, 0.0180637, 0.0221627, 0.0271914, 0.0333618, 0.0409344, 0.0502307, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333388, 0.345908, 0.357053, 0.374573, 0.386653, 0.393303, 0.399553, 0.408603, 0.416353, 0.421903, 0.426003, 0.432053, 0.436053]
+B [0.320207, -1.54447, 0.00222897, 0.00261361, 0.00306271, 0.00358608, 0.00419449, 0.0048995, 0.00571298, 0.00664634, 0.00770916, 0.00890692, 0.0102374, 0.0116849, 0.0132115, 0.0147428, 0.016147, 0.0172021, 0.0177346, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.315486, 0.319486]     [0.406144, -0.237989, 0.0023321, 0.00286239, 0.00351314, 0.00431169, 0.00529152, 0.00649375, 0.00796875, 0.00977829, 0.0119981, 0.0147211, 0.0180611, 0.0221579, 0.0271829, 0.0333468, 0.0409086, 0.0501871, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333014, 0.345364, 0.355314, 0.373464, 0.384914, 0.391564, 0.397814, 0.406864, 0.414614, 0.420164, 0.424264, 0.430314, 0.434314]true
+2    -1.5444702690133076    -0.23798900155050773
+relaxed_status  Suboptimal relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.320207, -1.54447, 0.00222897, 0.00261361, 0.00306271, 0.00358608, 0.00419449, 0.0048995, 0.00571298, 0.00664634, 0.00770916, 0.00890692, 0.0102374, 0.0116849, 0.0132115, 0.0147428, 0.016147, 0.0172021, 0.0177346, 0.0206726, 0.025309, 0.0309658, 0.0378578, 0.0462406, 0.0564157, 0.0687351, 0.0836058, 0.101281, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300372, 0.305597, 0.310388, 0.315486, 0.319486]     [0.406144, -0.673483, 0.0023321, 0.00286239, 0.00351314, 0.00431169, 0.00529152, 0.00649375, 0.00796875, 0.00977829, 0.0119981, 0.0147211, 0.0180611, 0.0221579, 0.0271829, 0.0333468, 0.0409086, 0.0501871, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.333014, 0.345364, 0.355314, 0.373464, 0.384914, 0.391564, 0.397814, 0.406864, 0.414614, 0.420164, 0.424264, 0.430314, 0.434314]
+B [0.320207, -1.54447, 0.00222897, 0.00261362, 0.00306275, 0.00358617, 0.0041947, 0.00489994, 0.00571386, 0.00664805, 0.0077124, 0.00891292, 0.0102483, 0.0117044, 0.0132459, 0.0148028, 0.0162504, 0.0173783, 0.0189438, 0.0230893, 0.0280975, 0.0341268, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300979, 0.306529, 0.310629, 0.316679, 0.320679]     [0.406144, -0.673483, 0.00233105, 0.00285966, 0.0035078, 0.00430241, 0.00527641, 0.0064701, 0.00793277, 0.00972471, 0.0119196, 0.0146077, 0.0178993, 0.0219295, 0.0268641, 0.0329068, 0.0403086, 0.0493801, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.331821, 0.344171, 0.354121, 0.372271, 0.383721, 0.390371, 0.396621, 0.405671, 0.413421, 0.418971, 0.423071, 0.429121, 0.433121]true
+2    -1.5444702690133076    -0.673482757371441
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.320207, -1.25414, 0.00222897, 0.00261362, 0.00306275, 0.00358617, 0.0041947, 0.00489994, 0.00571386, 0.00664805, 0.0077124, 0.00891292, 0.0102483, 0.0117044, 0.0132459, 0.0148028, 0.0162504, 0.0173783, 0.0189438, 0.0230893, 0.0280975, 0.0341268, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.300979, 0.306529, 0.310629, 0.316679, 0.320679]     [0.406144, -0.673483, 0.00233105, 0.00285966, 0.0035078, 0.00430241, 0.00527641, 0.0064701, 0.00793277, 0.00972471, 0.0119196, 0.0146077, 0.0178993, 0.0219295, 0.0268641, 0.0329068, 0.0403086, 0.0493801, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.305421, 0.319561, 0.331821, 0.344171, 0.354121, 0.372271, 0.383721, 0.390371, 0.396621, 0.405671, 0.413421, 0.418971, 0.423071, 0.429121, 0.433121]
+B [0.320207, -1.25414, 0.00222969, 0.00261555, 0.00306664, 0.00359319, 0.00420664, 0.00491951, 0.00574519, 0.0066974, 0.00778922, 0.00903148, 0.0104301, 0.0119819, 0.0136679, 0.0154428, 0.017219, 0.0188424, 0.0201479, 0.0230893, 0.0280975, 0.0341268, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.30107, 0.30662, 0.31072, 0.31677, 0.32077]     [0.406144, -0.673483, 0.00233105, 0.00285966, 0.0035078, 0.00430238, 0.00527635, 0.00646997, 0.00793252, 0.0097242, 0.0119187, 0.0146059, 0.0178959, 0.0219235, 0.0268533, 0.0328878, 0.0402755, 0.0493234, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.30538, 0.31953, 0.33173, 0.34408, 0.35403, 0.37218, 0.38363, 0.39028, 0.39653, 0.40558, 0.41333, 0.41888, 0.42298, 0.42903, 0.43303]true
+2    -1.2541410984660188    -0.673482757371441
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+3    0.002229686574674319    0.0023310529859768203
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+4    0.0026155505414220915    0.0028596559410176575
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+5    0.0030666403651032547    0.0035077956184859697
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+6    0.0035931921213795803    0.004302383488699992
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+7    0.004206636139824891    0.005276349276452398
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+8    0.004919508519867324    0.00646997333544797
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+9    0.005745194183718342    0.00793251534321569
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+10    0.00669740346341052    0.009724202404557342
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+11    0.007789219916509399    0.011918659410141943
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+12    0.009031481216400645    0.014605890135951287
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+13    0.010430124336085833    0.017895945367069992
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+14    0.011981940103884484    0.02192346202137725
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+15    0.013667897402474071    0.02685332332198246
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+16    0.015442758784564341    0.032887785961932293
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+17    0.017219042814324438    0.04027554604878657
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192215, 0.0188424, 0.0201479, 0.0230893, 0.0280975, 0.0341268, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293612, 0.30107, 0.30662, 0.31072, 0.31677, 0.32077]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0493234, 0.0571716, 0.0657768, 0.075412, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.30538, 0.31953, 0.33173, 0.34408, 0.35403, 0.37218, 0.38363, 0.39028, 0.39653, 0.40558, 0.41333, 0.41888, 0.42298, 0.42903, 0.43303]
+B [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192215, 0.0216779, 0.0241139, 0.0263027, 0.0280975, 0.0341268, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293774, 0.301524, 0.307074, 0.311174, 0.317224, 0.321224]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0398523, 0.0487279, 0.0595824, 0.0728707, 0.0872356, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.304926, 0.319076, 0.331276, 0.343626, 0.353576, 0.371726, 0.383176, 0.389826, 0.396076, 0.405126, 0.412876, 0.418426, 0.422526, 0.428576, 0.432576]true
+17    0.019221538870881395    0.032590044970632524
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   56.462505929778075  UB  38.51406445603944
+18    0.02167794826330932    0.03985230462295832
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+19    0.024113879731874194    0.0487279469850152
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+20    0.026302687186835268    0.05958236217849793
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+21    0.02809749772742705    0.072870740149642
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+22    0.03412678406024506    0.08723561784365882
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.022212, 0.025472, 0.0290869, 0.0405744, 0.0460422, 0.041355, 0.0499772, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261759, 0.272197, 0.279449, 0.28626, 0.293774, 0.301524, 0.307074, 0.311174, 0.317224, 0.321224]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0545759, 0.0612411, 0.0695327, 0.101972, 0.118274, 0.135945, 0.15491, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.304926, 0.319076, 0.331276, 0.343626, 0.353576, 0.371726, 0.383176, 0.389826, 0.396076, 0.405126, 0.412876, 0.418426, 0.422526, 0.428576, 0.432576]
+B [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.049993, 0.0526723, 0.0602007, 0.0722375, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261858, 0.273308, 0.279958, 0.28626, 0.295258, 0.303008, 0.308558, 0.312658, 0.318708, 0.322708]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0540705, 0.0612411, 0.0695327, 0.0844885, 0.102724, 0.124946, 0.151727, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.303442, 0.317592, 0.329792, 0.342142, 0.352092, 0.370242, 0.381692, 0.388342, 0.394592, 0.403642, 0.411392, 0.416942, 0.421042, 0.427092, 0.431092]true
+22    0.04604218762203803    0.06953267324918758
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   51.101409261342255  UB  38.51406445603944
+23    0.04999303216960634    0.0844885114939855
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+24    0.05267229728862291    0.1027242154861408
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+25    0.0602007150896878    0.124945966426075
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+26    0.07223751149113336    0.15172683471379972
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.0517874, 0.0647771, 0.0719745, 0.0784769, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.236829, 0.249119, 0.261858, 0.273308, 0.279958, 0.28626, 0.295258, 0.303008, 0.308558, 0.312658, 0.318708, 0.322708]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0540705, 0.0612411, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.174436, 0.195586, 0.216269, 0.236139, 0.254119, 0.27246, 0.289702, 0.303442, 0.317592, 0.329792, 0.342142, 0.352092, 0.370242, 0.381692, 0.388342, 0.394592, 0.403642, 0.411392, 0.416942, 0.421042, 0.427092, 0.431092]
+B [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0719745, 0.0784769, 0.0862917, 0.102543, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.237253, 0.249119, 0.265353, 0.276803, 0.283453, 0.289703, 0.298753, 0.306503, 0.312053, 0.316153, 0.322202, 0.326202]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.151266, 0.182313, 0.216269, 0.235645, 0.252247, 0.269597, 0.287247, 0.299947, 0.314097, 0.326297, 0.338647, 0.348597, 0.366747, 0.378197, 0.384847, 0.391097, 0.400147, 0.407897, 0.413447, 0.417547, 0.423598, 0.427598]true
+26    0.07847690491936646    0.1252303936395776
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+27    0.0862916561980237    0.1512655466643579
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+28    0.10254283479981981    0.18231286359265877
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+29    0.12112536834100741    0.21626908048543791
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+infeasible 1
+A [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0719745, 0.0870698, 0.100167, 0.10709, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.237253, 0.249119, 0.265353, 0.276803, 0.283453, 0.289703, 0.298753, 0.306503, 0.312053, 0.316153, 0.322202, 0.326202]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.184555, 0.235645, 0.252247, 0.269597, 0.287247, 0.299947, 0.314097, 0.326297, 0.338647, 0.348597, 0.366747, 0.378197, 0.384847, 0.391097, 0.400147, 0.407897, 0.413447, 0.417547, 0.423598, 0.427598]
+B [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.10709, 0.121125, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.237649, 0.249119, 0.265749, 0.277199, 0.283849, 0.290099, 0.299149, 0.306899, 0.312449, 0.316549, 0.322599, 0.326599]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.184555, 0.220198, 0.251911, 0.269201, 0.286851, 0.299551, 0.313701, 0.325901, 0.338251, 0.348201, 0.366351, 0.377801, 0.384451, 0.390701, 0.399751, 0.407501, 0.413051, 0.417151, 0.423201, 0.427201]true
+29    0.12112536834100741    0.18455450977062776
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+30    0.13976147338310316    0.22019807043099784
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+31    0.15613911369867065    0.25191104409853693
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+A [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.10709, 0.133004, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.22593, 0.237649, 0.249119, 0.265749, 0.277199, 0.283849, 0.290099, 0.299149, 0.306899, 0.312449, 0.316549, 0.322599, 0.326599]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.183179, 0.19626, 0.219987, 0.269201, 0.286851, 0.299551, 0.313701, 0.325901, 0.338251, 0.348201, 0.366351, 0.377801, 0.384451, 0.390701, 0.399751, 0.407501, 0.413051, 0.417151, 0.423201, 0.427201]
+B [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.113034, 0.133004, 0.139761, 0.156139, 0.17261, 0.187964, 0.201813, 0.214122, 0.226069, 0.238419, 0.249119, 0.266519, 0.277969, 0.284619, 0.290869, 0.299919, 0.307669, 0.313219, 0.317319, 0.323369, 0.327369]     [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.183179, 0.19626, 0.219987, 0.260175, 0.286081, 0.298781, 0.312931, 0.325131, 0.337481, 0.347431, 0.365581, 0.377031, 0.383681, 0.389931, 0.398981, 0.406731, 0.412281, 0.416381, 0.422431, 0.426431]true
+31    0.15613911369867065    0.2199870672985815
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+32    0.17261022031354684    0.2601745484691529
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+33    0.18796442715924566    0.2860805527563819
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+34    0.20181254315866287    0.29878055336776616
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+35    0.21412209519589656    0.31293055524669133
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+36    0.2260694416027091    0.32513055839729094
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+37    0.238419437159959    0.33748056284004097
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+38    0.24911923217386708    0.34743056861658606
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   161.75850273062338  UB  38.51406445603944
+39    0.26651942379607524    0.36558057620392476
+relaxed_status  Optimal relaxed_LB   316.5061972097347  UB  38.51406445603944
+update P.colLower
+updated point0.2731638593126233xl0.26651942379607524   dual -41838.337065857755
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+40    0.27796941417892784    0.3770305858210722
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+41    0.2846194029262396    0.3836805970737604
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   236.61839461097185  UB  38.51406445603944
+42    0.29086939008138557    0.3899306099186144
+relaxed_status  Numeric relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   184.12617267363464  UB  38.51406445603944
+43    0.2999193751948935    0.3989806248051065
+relaxed_status  Suboptimal relaxed_LB   1.3023376285515835  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   206.33728908806452  UB  38.51406445603944
+44    0.3076693578935146    0.40673064210648546
+relaxed_status  Optimal relaxed_LB   228.14779610100754  UB  38.51406445603944
+update P.colLower
+updated point0.31534830583665113xl0.3076693578935146   dual -24695.275062316745
+relaxed_status  Optimal relaxed_LB   203.8455964486222  UB  38.51406445603944
+45    0.31321933808690255    0.4122806619130975
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   180.7353093949038  UB  38.51406445603944
+46    0.31731931570390404    0.416380684296096
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   144.81574444082608  UB  38.51406445603944
+47    0.3233692902521262    0.42243070974787383
+relaxed_status  Optimal relaxed_LB   143.70394236765398  UB  38.51406445603944
+update P.colLower
+updated point0.3270090396780339xl0.3233692902521262   dual -28900.307576909894
+relaxed_status  Optimal relaxed_LB   131.492362943415  UB  38.51406445603944
+48    0.32736926133067745    0.4264307386693226
+relaxed_status  Optimal relaxed_LB   113.3688655708022  UB  38.51406445603944
+update P.colLower
+updated point0.32982680968217537xl0.32736926133067745   dual -30459.136671364908
+relaxed_status  Optimal relaxed_LB   106.5487867350763  UB  38.51406445603944
+after probing [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.113034, 0.133004, 0.139761, 0.164919, 0.17261, 0.187964, 0.201813, 0.214711, 0.226968, 0.239339, 0.249324, 0.273164, 0.278837, 0.285526, 0.291805, 0.300846, 0.315348, 0.314149, 0.318262, 0.327009, 0.329827]   [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.183179, 0.19626, 0.219987, 0.241147, 0.26065, 0.29591, 0.311874, 0.324399, 0.336757, 0.346721, 0.364833, 0.376297, 0.382968, 0.38924, 0.398293, 0.406026, 0.411622, 0.415722, 0.421772, 0.425772]
+probing time:   1811.630187188 (s)true
+added con      144
+relaxed_LB_trial       23.045998749196677
+added con      124
+relaxed_LB_trial       25.447099259057985
+added con      133
+relaxed_LB_trial       25.713940196574928
+added con      137
+relaxed_LB_trial       25.773583008549448
+added con      130
+relaxed_LB_trial       25.781264423261206
+added con      117
+relaxed_LB_trial       25.78545368984671
+added con      107
+relaxed_LB_trial       25.787037448927492
+added con      94
+relaxed_LB_trial       25.78721261823198
+added con      91
+relaxed_LB_trial       25.78721261823314
+added con      91
+relaxed_LB_trial       25.78721261823314
+added con      91
+relaxed_LB_trial       25.78721261823314
+added con      91
+relaxed_LB_trial       25.78721261823314
+added con      91
+relaxed_LB_trial       25.78721261823314
+added con      91
+relaxed_LB_trial       25.78721261823314
+iterative relax time:   0.86322682 (s)Optimal    25.78721261823314
+relaxed_LB  25.78721261823314
+after multiplier medium feasibility reduction [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.113034, 0.133004, 0.141623, 0.164919, 0.183225, 0.187964, 0.201813, 0.214711, 0.226968, 0.239339, 0.250193, 0.280375, 0.278837, 0.285526, 0.291805, 0.313775, 0.321525, 0.327075, 0.331175, 0.337225, 0.341225]   [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.183179, 0.19626, 0.219987, 0.241147, 0.26065, 0.29591, 0.311874, 0.324396, 0.336746, 0.346696, 0.351725, 0.376296, 0.382946, 0.389196, 0.385125, 0.392875, 0.398425, 0.402525, 0.408575, 0.412575]
+reduction_relax0.8910497327969434
+before feasibility reduction [0.320207, -1.25414, 0.00222976, 0.00261599, 0.00306805, 0.0035967, 0.00421429, 0.00493484, 0.00577422, 0.0067502, 0.00788242, 0.00919219, 0.0107024, 0.0124369, 0.0144195, 0.0166739, 0.0192955, 0.0226393, 0.0275546, 0.0334743, 0.0405744, 0.0460422, 0.053855, 0.0647771, 0.0729071, 0.0870698, 0.100167, 0.113034, 0.133004, 0.141623, 0.164919, 0.183225, 0.187964, 0.201813, 0.214711, 0.226968, 0.239339, 0.250193, 0.280375, 0.278837, 0.285526, 0.291805, 0.313775, 0.321525, 0.327075, 0.331175, 0.337225, 0.341225]   [0.406144, -0.673483, 0.00231401, 0.00281806, 0.00343155, 0.0041602, 0.00505597, 0.0061414, 0.00745396, 0.00903782, 0.0109454, 0.0131052, 0.0158039, 0.0190148, 0.0228132, 0.0272707, 0.03259, 0.0379006, 0.0453975, 0.0534281, 0.0605394, 0.0682734, 0.0808962, 0.0918739, 0.106192, 0.12523, 0.138729, 0.15636, 0.183179, 0.19626, 0.219987, 0.241147, 0.26065, 0.29591, 0.311874, 0.324396, 0.336746, 0.346696, 0.351725, 0.376296, 0.382946, 0.389196, 0.385125, 0.392875, 0.398425, 0.402525, 0.408575, 0.412575]
+after initial feasibility reduction [0.33794, -1.07929, 0.00225703, 0.0026806, 0.00318313, 0.00377903, 0.00448527, 0.00532183, 0.00631213, 0.00748353, 0.00886787, 0.0105021, 0.0124289, 0.0146973, 0.0173633, 0.0204902, 0.0241495, 0.0284211, 0.0333934, 0.0391602, 0.04582, 0.0534717, 0.0622145, 0.0721348, 0.0833195, 0.09582, 0.109636, 0.124728, 0.140878, 0.157753, 0.174785, 0.191133, 0.206769, 0.221735, 0.235768, 0.248903, 0.26148, 0.273279, 0.285035, 0.296002, 0.305887, 0.314812, 0.322957, 0.330454, 0.337069, 0.342768, 0.346617, 0.348624]   [0.374816, -0.760764, 0.00228837, 0.0027557, 0.00331752, 0.00399261, 0.00480324, 0.00577571, 0.00694103, 0.00833555, 0.0100016, 0.0119882, 0.0143516, 0.0171551, 0.0204696, 0.0243727, 0.028948, 0.0342848, 0.0404741, 0.0476045, 0.0557741, 0.0651657, 0.0760331, 0.0882944, 0.101991, 0.117174, 0.133718, 0.151435, 0.170352, 0.19005, 0.210156, 0.230405, 0.250064, 0.269257, 0.286935, 0.302523, 0.31725, 0.330719, 0.343285, 0.354062, 0.363397, 0.37138, 0.377959, 0.383579, 0.388924, 0.393639, 0.39884, 0.404839]     time:   10.768207236 (s)
+1    0.3379401074484033    0.37481555455616594
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+2    -1.0792861693649571    -0.760764335973767
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  38.51406445603944
+3    0.0022570268621048767    0.0022883737115327795
+4    0.0026805980859033996    0.002755698419503538
+5    0.003183134529232379    0.003317523489255204
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+6    0.003779029839532819    0.00399261378206238
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+7    0.004485268614539943    0.004803240886068972
+relaxed_status  Suboptimal relaxed_LB   25.78721261823314  UB  38.51406445603944
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+8    0.005321829954861138    0.005775712812335503
+relaxed_status  Optimal relaxed_LB   38.5140501356655  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.5423927857377  UB  38.51406445603944
+9    0.006312128688050919    0.0069410322769970076
+relaxed_status  Numeric relaxed_LB   25.78721261823314  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.541126966045475  UB  38.51406445603944
+10    0.007483525212675564    0.008335550087649994
+relaxed_status  Optimal relaxed_LB   38.51393051142492  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51399030273165  UB  38.51406445603944
+11    0.00886786651878365    0.010001619077651479
+relaxed_status  Optimal relaxed_LB   38.51406388464186  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51396894572436  UB  38.51406445603944
+12    0.010502109162757078    0.011988236007339299
+relaxed_status  Optimal relaxed_LB   38.514045775038504  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.5139421463345  UB  38.51406445603944
+13    0.01242893037118792    0.014351585235833804
+relaxed_status  Optimal relaxed_LB   38.51403635101254  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514052721644234  UB  38.51406445603944
+14    0.014697338176329663    0.017155092523446026
+relaxed_status  Optimal relaxed_LB   38.51404036559083  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51405106944364  UB  38.51406445603944
+15    0.017363294035490237    0.02046960229698214
+relaxed_status  Optimal relaxed_LB   38.51403253158139  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.513882976852976  UB  38.51406445603944
+16    0.020490210328949793    0.024372749320101587
+relaxed_status  Optimal relaxed_LB   38.513925236889904  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406413850464  UB  38.51406445603944
+17    0.024149490791823602    0.02894796901577895
+relaxed_status  Optimal relaxed_LB   38.51404215582993  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406432325223  UB  38.51406445603944
+18    0.028421134096344412    0.0342847658287969
+relaxed_status  Optimal relaxed_LB   38.51405281859361  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406091531118  UB  38.51406445603944
+19    0.03339337675602912    0.040474059362637455
+relaxed_status  Optimal relaxed_LB   38.51406450383471  UB  38.51406445603944
+update P.colLower
+updated point0.03339337675768898xl0.03339337675602912   dual -28794.62965646916
+relaxed_status  Optimal relaxed_LB   38.51406076444458  UB  38.51406445603944
+20    0.03916016873578823    0.04760445165514695
+relaxed_status  Optimal relaxed_LB   38.514053549468336  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51405702909149  UB  38.51406445603944
+21    0.045819992391456496    0.05577410354149896
+relaxed_status  Optimal relaxed_LB   38.51406349078488  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514061154349804  UB  38.51406445603944
+22    0.05347165236675663    0.06516574320598885
+relaxed_status  Optimal relaxed_LB   38.51405172456428  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406445076042  UB  38.51406445603944
+23    0.0622144681748283    0.07603311477665241
+relaxed_status  Optimal relaxed_LB   38.514064244136904  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406398046386  UB  38.51406445603944
+24    0.07213477768451562    0.08829440510025863
+relaxed_status  Optimal relaxed_LB   38.514062806961185  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406446110498  UB  38.51406445603944
+25    0.0833194598244434    0.10199064883963516
+relaxed_status  Optimal relaxed_LB   38.51406445552706  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406393494552  UB  38.51406445603944
+26    0.09582001496357603    0.11717360380320185
+relaxed_status  Optimal relaxed_LB   38.514018897970175  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406205731299  UB  38.51406445603944
+27    0.1096364484301475    0.13371770355116627
+relaxed_status  Optimal relaxed_LB   38.514064441098085  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514063485268146  UB  38.51406445603944
+28    0.12472779644839811    0.151435406978424
+relaxed_status  Optimal relaxed_LB   38.51406465772174  UB  38.51406445603944
+update P.colLower
+updated point0.12472779648644441xl0.12472779644839811   dual -5300.969874664164
+relaxed_status  Optimal relaxed_LB   38.514064424684165  UB  38.51406445603944
+29    0.14087838118815996    0.17035238118982116
+relaxed_status  Optimal relaxed_LB   38.51405365660708  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514064695770614  UB  38.51406445603944
+30    0.15775306235289402    0.1900495797190939
+relaxed_status  Optimal relaxed_LB   38.51406387877821  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514049276592566  UB  38.51406445603944
+31    0.17478479358068919    0.2101564527335962
+relaxed_status  Optimal relaxed_LB   38.51406426853583  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406538524283  UB  38.51406445603944
+32    0.19113251538252046    0.23040471134227705
+relaxed_status  Optimal relaxed_LB   38.51406442368742  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514062608517946  UB  38.51406445603944
+33    0.20676909780322603    0.2500636223602124
+relaxed_status  Optimal relaxed_LB   38.51406267228276  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514053076696726  UB  38.51406445603944
+34    0.221735059533113    0.2692572287523747
+relaxed_status  Optimal relaxed_LB   38.514064245651  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.5140643903857  UB  38.51406445603944
+35    0.23576811176377155    0.28693540336218903
+relaxed_status  Optimal relaxed_LB   38.51405823640765  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51400021837084  UB  38.51406445603944
+36    0.2489029037433452    0.3025230387806699
+relaxed_status  Optimal relaxed_LB   38.51406304339463  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514054902240645  UB  38.51406445603944
+37    0.26147961936011654    0.3172495147336171
+relaxed_status  Optimal relaxed_LB   38.514003910223366  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514064436269976  UB  38.51406445603944
+38    0.27327906778143096    0.33071895589930067
+relaxed_status  Optimal relaxed_LB   38.513985936387485  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514062476379074  UB  38.51406445603944
+39    0.28503549263936667    0.34328509176782684
+relaxed_status  Optimal relaxed_LB   38.51406434170601  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406413165448  UB  38.51406445603944
+40    0.29600182995351626    0.3540617501635789
+relaxed_status  Optimal relaxed_LB   38.51406443464506  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406311862988  UB  38.51406445603944
+41    0.3058869345864819    0.36339661745143953
+relaxed_status  Optimal relaxed_LB   38.514064362269764  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51399406078244  UB  38.51406445603944
+42    0.3148123151600494    0.3713799966434664
+relaxed_status  Optimal relaxed_LB   38.51403965182297  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.513906032822234  UB  38.51406445603944
+43    0.3229572796096729    0.37795946513854756
+relaxed_status  Optimal relaxed_LB   38.51406018719179  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.514040828309604  UB  38.51406445603944
+44    0.3304541106818916    0.3835789242042189
+relaxed_status  Optimal relaxed_LB   38.514038507458864  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406387764966  UB  38.51406445603944
+45    0.3370687807905093    0.3889239521171165
+relaxed_status  Optimal relaxed_LB   38.51406443525333  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406437062353  UB  38.51406445603944
+46    0.3427678468642336    0.39363915897323853
+relaxed_status  Optimal relaxed_LB   38.5140613467874  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406323687242  UB  38.51406445603944
+47    0.3466173806918563    0.3988398585354622
+relaxed_status  Optimal relaxed_LB   38.51405014114245  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406290252639  UB  38.51406445603944
+48    0.3486244247679475    0.40483890768001235
+relaxed_status  Optimal relaxed_LB   38.51406404907476  UB  38.51406445603944
+relaxed_status  Optimal relaxed_LB   38.51406411861812  UB  38.51406445603944
+after probing [0.33794, -1.07929, 0.00225703, 0.0026806, 0.00318313, 0.00377903, 0.00448527, 0.00532183, 0.00631213, 0.00748353, 0.00886787, 0.0105021, 0.0124289, 0.0146973, 0.0173633, 0.0204902, 0.0241495, 0.0284211, 0.0333934, 0.0391602, 0.04582, 0.0534717, 0.0622145, 0.0721348, 0.0833195, 0.09582, 0.109636, 0.124728, 0.140878, 0.157753, 0.174785, 0.191133, 0.206769, 0.221735, 0.235768, 0.248903, 0.26148, 0.273279, 0.285035, 0.296002, 0.305887, 0.314812, 0.322957, 0.330454, 0.337069, 0.342768, 0.346617, 0.348624]   [0.374816, -0.760764, 0.00228837, 0.0027557, 0.00331752, 0.00399261, 0.00480324, 0.00577571, 0.00694103, 0.00833555, 0.0100016, 0.0119882, 0.0143516, 0.0171551, 0.0204696, 0.0243727, 0.028948, 0.0342848, 0.0404741, 0.0476045, 0.0557741, 0.0651657, 0.0760331, 0.0882944, 0.101991, 0.117174, 0.133718, 0.151435, 0.170352, 0.19005, 0.210156, 0.230405, 0.250064, 0.269257, 0.286935, 0.302523, 0.31725, 0.330719, 0.343285, 0.354062, 0.363397, 0.37138, 0.377959, 0.383579, 0.388924, 0.393639, 0.39884, 0.404839]
+probing time:   983.456092274 (s)true
+added con      144
+relaxed_LB_trial       26.505320933493774
+added con      141
+relaxed_LB_trial       29.641828404179208
+added con      144
+relaxed_LB_trial       30.031055875927333
+added con      74
+relaxed_LB_trial       30.06231036666264
+added con      125
+relaxed_LB_trial       30.071992399326486
+added con      118
+relaxed_LB_trial       30.073618905357545
+added con      112
+relaxed_LB_trial       30.074282649362996
+added con      112
+relaxed_LB_trial       30.07431983324377
+added con      103
+relaxed_LB_trial       30.074319833243408
+added con      103
+relaxed_LB_trial       30.074319833243408
+added con      103
+relaxed_LB_trial       30.074319833243408
+added con      103
+relaxed_LB_trial       30.074319833243408
+added con      103
+relaxed_LB_trial       30.074319833243408
+added con      103
+relaxed_LB_trial       30.074319833243408
+iterative relax time:   0.93520436 (s)Optimal    30.074319833243408
+relaxed_LB  30.074319833243408
+after multiplier medium feasibility reduction [0.33794, -1.07929, 0.00225703, 0.0026806, 0.00318313, 0.00377903, 0.00448527, 0.00532183, 0.00631213, 0.00748353, 0.00886787, 0.0105021, 0.0124289, 0.0146973, 0.0173633, 0.0204902, 0.0241495, 0.0284211, 0.0333934, 0.0391602, 0.04582, 0.0534717, 0.0622145, 0.0721348, 0.0833195, 0.09582, 0.109636, 0.124728, 0.140878, 0.157753, 0.174785, 0.191133, 0.206769, 0.221735, 0.235768, 0.248903, 0.26148, 0.273279, 0.286999, 0.296002, 0.305887, 0.314812, 0.322957, 0.330454, 0.337069, 0.342768, 0.346617, 0.348624]   [0.374816, -0.760764, 0.00228837, 0.0027557, 0.00331752, 0.00399261, 0.00480324, 0.00577571, 0.00694103, 0.00833555, 0.0100016, 0.0119882, 0.0143516, 0.0171551, 0.0204696, 0.0243727, 0.028948, 0.0342848, 0.0404741, 0.0476045, 0.0557741, 0.0651657, 0.0760331, 0.0882944, 0.101991, 0.117174, 0.133718, 0.151435, 0.170352, 0.19005, 0.210156, 0.230405, 0.250064, 0.269257, 0.286935, 0.302523, 0.31725, 0.330719, 0.343285, 0.354062, 0.363397, 0.37138, 0.377959, 0.383579, 0.388924, 0.393639, 0.39884, 0.404839]
+reduction_relax0.0337044172485107
+  scenario :  1   WS  scip statusOptimal  obj 0.4175261429181068 lb  0.4175261429181068
+  scenario :  2   WS  scip statusOptimal  obj 0.020466108833904706 lb  0.020466108833904706
+  scenario :  3   WS  scip statusOptimal  obj 0.08603278166575251 lb  0.08603278166575251
+  scenario :  4   WS  scip statusOptimal  obj 0.10426633704593344 lb  0.10426633704593344
+  scenario :  5   WS  scip statusOptimal  obj 0.16689419652945103 lb  0.16689419652945103
+  scenario :  6   WS  scip statusOptimal  obj 0.13117652221929435 lb  0.13117652221929435
+  scenario :  7   WS  scip statusOptimal  obj 0.26647572591998303 lb  0.26647572591998303
+  scenario :  8   WS  scip statusOptimal  obj 0.34030016406921487 lb  0.34030016406921487
+  scenario :  9   WS  scip statusOptimal  obj 0.7863905659496405 lb  0.7863905659496405
+  scenario :  10   WS  scip statusOptimal  obj 0.883996567084006 lb  0.883996567084006
+  scenario :  11   WS  scip statusOptimal  obj 0.23318568529781103 lb  0.23318568529781103
+  scenario :  12   WS  scip statusOptimal  obj 0.6395741790657985 lb  0.6395741790657985
+  scenario :  13   WS  scip statusOptimal  obj 0.7418883414181165 lb  0.7418883414181165
+  scenario :  14   WS  scip statusOptimal  obj 1.425686226995593 lb  1.425686226995593
+  scenario :  15   WS  scip statusOptimal  obj 2.325469694099129 lb  2.325469694099129
+  scenario :  16   WS  scip statusOptimal  obj 1.5929302587790732 lb  1.5929302587790732
+  scenario :  17   WS  scip statusOptimal  obj 0.9787890366958054 lb  0.9787890366958054
+  scenario :  18   WS  scip statusOptimal  obj 2.421188510862013 lb  2.421188510862013
+  scenario :  19   WS  scip statusOptimal  obj 1.8550419274333283 lb  1.8550419274333283
+  scenario :  20   WS  scip statusOptimal  obj 0.8782786808333505 lb  0.8782786808333505
+  scenario :  21   WS  scip statusOptimal  obj 0.3040935925119399 lb  0.3040935925119399
+  scenario :  22   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  23   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  24   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  25   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  26   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  27   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  28   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  29   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  30   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  31   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  32   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  33   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  34   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  35   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  36   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  37   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  38   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  39   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  40   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  41   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  42   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  43   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  44   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  45   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  46   WS  scip statusOptimal  obj 0.0 lb  0.0
+  scenario :  47   WS  scip statusOptimal  obj 0.0 lb  0.0
+WS_status  Optimal  WS_LB 16.599651246227246
+WS Lower time:   2.358586992 (s)
+FLB: 38.51406445603944
+node L:30.074319833243408
+global L:30.074319833243408
+local_UB  Optimal38.514267422255955
+scenario   1    WSfix  scip status       Optimal  obj 0.4188719608607839 lb  0.4188719608607839
+scenario   2    WSfix  scip status       Optimal  obj 0.02191153697138706 lb  0.02191153697138706
+scenario   3    WSfix  scip status       Optimal  obj 0.0913383642263787 lb  0.0913383642263787
+scenario   4    WSfix  scip status       Optimal  obj 0.11359897324487743 lb  0.11359897324487743
+scenario   5    WSfix  scip status       Optimal  obj 0.18451407188800706 lb  0.18451407188800706
+scenario   6    WSfix  scip status       Optimal  obj 0.15378155861857645 lb  0.15378155861857645
+scenario   7    WSfix  scip status       Optimal  obj 0.3110228302427024 lb  0.3110228302427024
+scenario   8    WSfix  scip status       Optimal  obj 0.4089786280301407 lb  0.4089786280301407
+scenario   9    WSfix  scip status       Optimal  obj 0.9245107761559481 lb  0.9245107761559481
+scenario   10    WSfix  scip status       Optimal  obj 1.0779095188671133 lb  1.0779095188671133
+scenario   11    WSfix  scip status       Optimal  obj 0.37194452571232023 lb  0.37194452571232023
+scenario   12    WSfix  scip status       Optimal  obj 0.926328530263723 lb  0.926328530263723
+scenario   13    WSfix  scip status       Optimal  obj 1.140124072815423 lb  1.140124072815423
+scenario   14    WSfix  scip status       Optimal  obj 2.1123610217416764 lb  2.1123610217416764
+scenario   15    WSfix  scip status       Optimal  obj 3.414112809128632 lb  3.414112809128632
+scenario   16    WSfix  scip status       Optimal  obj 2.7550630153474622 lb  2.7550630153474622
+scenario   17    WSfix  scip status       Optimal  obj 2.1735181250577686 lb  2.1735181250577686
+scenario   18    WSfix  scip status       Optimal  obj 4.583258354732484 lb  4.583258354732484
+scenario   19    WSfix  scip status       Optimal  obj 4.239925201430001 lb  4.239925201430001
+scenario   20    WSfix  scip status       Optimal  obj 3.0899583751438082 lb  3.0899583751438082
+scenario   21    WSfix  scip status       Optimal  obj 2.2629072966221613 lb  2.2629072966221613
+scenario   22    WSfix  scip status       Optimal  obj 1.0270955592183184 lb  1.0270955592183184
+scenario   23    WSfix  scip status       Optimal  obj 0.3807074102343831 lb  0.3807074102343831
+scenario   24    WSfix  scip status       Optimal  obj 0.04732672050509029 lb  0.04732672050509029
+scenario   25    WSfix  scip status       Optimal  obj 0.08534229682528513 lb  0.08534229682528513
+scenario   26    WSfix  scip status       Optimal  obj 0.2253003862234471 lb  0.2253003862234471
+scenario   27    WSfix  scip status       Optimal  obj 1.2271760249357524 lb  1.2271760249357524
+scenario   28    WSfix  scip status       Optimal  obj 1.1215829488171398 lb  1.1215829488171398
+scenario   29    WSfix  scip status       Optimal  obj 0.9019673360830955 lb  0.9019673360830955
+scenario   30    WSfix  scip status       Optimal  obj 0.815821769542363 lb  0.815821769542363
+scenario   31    WSfix  scip status       Optimal  obj 0.8251897633679987 lb  0.8251897633679987
+scenario   32    WSfix  scip status       Optimal  obj 0.21865448794455528 lb  0.21865448794455528
+scenario   33    WSfix  scip status       Optimal  obj 0.06009232523885236 lb  0.06009232523885236
+scenario   34    WSfix  scip status       Optimal  obj 0.00623190359633164 lb  0.00623190359633164
+scenario   35    WSfix  scip status       Optimal  obj 0.07837400403783884 lb  0.07837400403783884
+scenario   36    WSfix  scip status       Optimal  obj 0.3637149347334005 lb  0.3637149347334005
+scenario   37    WSfix  scip status       Optimal  obj 0.0002545293065954911 lb  0.0002545293065954911
+scenario   38    WSfix  scip status       Optimal  obj 0.007797569426470006 lb  0.007797569426470006
+scenario   39    WSfix  scip status       Optimal  obj 0.04004800399651946 lb  0.04004800399651946
+scenario   40    WSfix  scip status       Optimal  obj 0.17246140573327115 lb  0.17246140573327115
+scenario   41    WSfix  scip status       Optimal  obj 0.060013263877708785 lb  0.060013263877708785
+scenario   42    WSfix  scip status       Optimal  obj 0.011708053024377366 lb  0.011708053024377366
+scenario   43    WSfix  scip status       Optimal  obj 0.010920067149253622 lb  0.010920067149253622
+scenario   44    WSfix  scip status       Optimal  obj 0.028342580375702774 lb  0.028342580375702774
+scenario   45    WSfix  scip status       Optimal  obj 0.0009565330345557033 lb  0.0009565330345557033
+scenario   46    WSfix  scip status       Optimal  obj 0.007262977751397347 lb  0.007262977751397347
+scenario   47    WSfix  scip status       Optimal  obj 0.009537525679185184 lb  0.009537525679185184
+WSfix_status  Optimal  WSfix_UB 38.50981992776026
+node U:38.50981992776026
+upper time:   78.268833254 (s)
+UB:  38.50981992776026
+before multiplier medium feasibility reduction [0.33794, -1.07929, 0.00225703, 0.0026806, 0.00318313, 0.00377903, 0.00448527, 0.00532183, 0.00631213, 0.00748353, 0.00886787, 0.0105021, 0.0124289, 0.0146973, 0.0173633, 0.0204902, 0.0241495, 0.0284211, 0.0333934, 0.0391602, 0.04582, 0.0534717, 0.0622145, 0.0721348, 0.0833195, 0.09582, 0.109636, 0.124728, 0.140878, 0.157753, 0.174785, 0.191133, 0.206769, 0.221735, 0.235768, 0.248903, 0.26148, 0.273279, 0.286999, 0.296002, 0.305887, 0.314812, 0.322957, 0.330454, 0.337069, 0.342768, 0.346617, 0.348624]   [0.374816, -0.760764, 0.00228837, 0.0027557, 0.00331752, 0.00399261, 0.00480324, 0.00577571, 0.00694103, 0.00833555, 0.0100016, 0.0119882, 0.0143516, 0.0171551, 0.0204696, 0.0243727, 0.028948, 0.0342848, 0.0404741, 0.0476045, 0.0557741, 0.0651657, 0.0760331, 0.0882944, 0.101991, 0.117174, 0.133718, 0.151435, 0.170352, 0.19005, 0.210156, 0.230405, 0.250064, 0.269257, 0.286935, 0.302523, 0.31725, 0.330719, 0.343285, 0.354062, 0.363397, 0.37138, 0.377959, 0.383579, 0.388924, 0.393639, 0.39884, 0.404839]
+after multiplier medium feasibility reduction [0.352418, -0.961879, 0.0022717, 0.00271561, 0.00324565, 0.00387827, 0.00463274, 0.00553188, 0.00660256, 0.00787627, 0.00938976, 0.0111857, 0.0133135, 0.0158294, 0.0187976, 0.0222903, 0.0263873, 0.0311762, 0.036749, 0.0432027, 0.0506361, 0.0591444, 0.0688128, 0.0797112, 0.0918621, 0.105261, 0.119861, 0.135562, 0.152215, 0.169629, 0.18746, 0.205418, 0.223104, 0.240102, 0.256173, 0.271113, 0.284828, 0.297364, 0.308768, 0.319053, 0.328198, 0.336309, 0.343488, 0.349777, 0.355274, 0.360042, 0.364171, 0.367705]   [0.366409, -0.854508, 0.00228245, 0.00274131, 0.00329156, 0.00395087, 0.00474058, 0.00568578, 0.00681605, 0.00816614, 0.00977669, 0.0116949, 0.0139753, 0.0166803, 0.0198806, 0.023655, 0.0280907, 0.0332818, 0.0393275, 0.046329, 0.0543872, 0.0635918, 0.0740183, 0.0857255, 0.0987256, 0.112983, 0.12842, 0.144904, 0.16224, 0.1802, 0.19852, 0.216842, 0.234937, 0.252468, 0.269183, 0.284845, 0.299299, 0.312403, 0.32414, 0.33433, 0.343139, 0.351133, 0.358354, 0.364795, 0.370804, 0.376031, 0.38049, 0.384476]
+var select time:   0.038355442 (s)
+bVarId:  2  bValue: -0.90459693862821        -0.9618790447922894          -0.8545079780827154   node_LB  30.074319833243408
+node_LB in branch   30.074319833243408
+left 30.074319833243408   30.074319833243408
+right 30.074319833243408   30.074319833243408
+remaining 1   30.074319833243408
+remaining 2   30.074319833243408
+2      1      2      2      -0.9619        -9.0460e-01    3.0074e+01     3.8510e+01     28.0488 %
+before feasibility reduction [0.352418, -0.961879, 0.0022717, 0.00271561, 0.00324565, 0.00387827, 0.00463274, 0.00553188, 0.00660256, 0.00787627, 0.00938976, 0.0111857, 0.0133135, 0.0158294, 0.0187976, 0.0222903, 0.0263873, 0.0311762, 0.036749, 0.0432027, 0.0506361, 0.0591444, 0.0688128, 0.0797112, 0.0918621, 0.105261, 0.119861, 0.135562, 0.152215, 0.169629, 0.18746, 0.205418, 0.223104, 0.240102, 0.256173, 0.271113, 0.284828, 0.297364, 0.308768, 0.319053, 0.328198, 0.336309, 0.343488, 0.349777, 0.355274, 0.360042, 0.364171, 0.367705]   [0.366409, -0.904597, 0.00228245, 0.00274131, 0.00329156, 0.00395087, 0.00474058, 0.00568578, 0.00681605, 0.00816614, 0.00977669, 0.0116949, 0.0139753, 0.0166803, 0.0198806, 0.023655, 0.0280907, 0.0332818, 0.0393275, 0.046329, 0.0543872, 0.0635918, 0.0740183, 0.0857255, 0.0987256, 0.112983, 0.12842, 0.144904, 0.16224, 0.1802, 0.19852, 0.216842, 0.234937, 0.252468, 0.269183, 0.284845, 0.299299, 0.312403, 0.32414, 0.33433, 0.343139, 0.351133, 0.358354, 0.364795, 0.370804, 0.376031, 0.38049, 0.384476]
+after initial feasibility reduction [0.358987, -0.942849, 0.0022751, 0.0027237, 0.00325994, 0.00390073, 0.00466611, 0.00557972, 0.00666912, 0.00796682, 0.00951075, 0.011345, 0.0135205, 0.0160954, 0.0191357, 0.0227155, 0.0269165, 0.0318272, 0.0375415, 0.0441558, 0.051765, 0.0604578, 0.070309, 0.0813726, 0.0936718, 0.10719, 0.121866, 0.137586, 0.154184, 0.171446, 0.189121, 0.206929, 0.224587, 0.241756, 0.257948, 0.273193, 0.28735, 0.300286, 0.311968, 0.322415, 0.331637, 0.33968, 0.346678, 0.352727, 0.357941, 0.362415, 0.366216, 0.369425]   [0.364956, -0.904597, 0.00228196, 0.00274018, 0.00328966, 0.00394815, 0.00473669, 0.00568011, 0.00680805, 0.00815514, 0.00976187, 0.0116753, 0.0139497, 0.0166474, 0.0198388, 0.0236026, 0.0280255, 0.0332007, 0.0392264, 0.0462023, 0.0542242, 0.0633782, 0.0737337, 0.0853332, 0.0981839, 0.112248, 0.127438, 0.14363, 0.160656, 0.178244, 0.196123, 0.214007, 0.2316, 0.248704, 0.265006, 0.280407, 0.294744, 0.307913, 0.320001, 0.33091, 0.340603, 0.349143, 0.356612, 0.3631, 0.368708, 0.373538, 0.377676, 0.38121]     time:   11.440949187 (s)
+added con      189
+relaxed_LB_trial       37.94901243942185
+added con      184
+relaxed_LB_trial       38.17834542714298
+iterative relax time:   0.415701506 (s)Optimal    38.17834542714298
+reduction_relax0
+remaining 1   30.074319833243408
+3      0      2      2      -0.9046        -8.5451e-01    3.0074e+01     3.8510e+01     28.0488 %
+before feasibility reduction [0.352418, -0.904597, 0.0022717, 0.00271561, 0.00324565, 0.00387827, 0.00463274, 0.00553188, 0.00660256, 0.00787627, 0.00938976, 0.0111857, 0.0133135, 0.0158294, 0.0187976, 0.0222903, 0.0263873, 0.0311762, 0.036749, 0.0432027, 0.0506361, 0.0591444, 0.0688128, 0.0797112, 0.0918621, 0.105261, 0.119861, 0.135562, 0.152215, 0.169629, 0.18746, 0.205418, 0.223104, 0.240102, 0.256173, 0.271113, 0.284828, 0.297364, 0.308768, 0.319053, 0.328198, 0.336309, 0.343488, 0.349777, 0.355274, 0.360042, 0.364171, 0.367705]   [0.366409, -0.854508, 0.00228245, 0.00274131, 0.00329156, 0.00395087, 0.00474058, 0.00568578, 0.00681605, 0.00816614, 0.00977669, 0.0116949, 0.0139753, 0.0166803, 0.0198806, 0.023655, 0.0280907, 0.0332818, 0.0393275, 0.046329, 0.0543872, 0.0635918, 0.0740183, 0.0857255, 0.0987256, 0.112983, 0.12842, 0.144904, 0.16224, 0.1802, 0.19852, 0.216842, 0.234937, 0.252468, 0.269183, 0.284845, 0.299299, 0.312403, 0.32414, 0.33433, 0.343139, 0.351133, 0.358354, 0.364795, 0.370804, 0.376031, 0.38049, 0.384476]
+after initial feasibility reduction [0.357915, -0.904597, 0.00227352, 0.00272074, 0.00325515, 0.00389342, 0.00465537, 0.00556463, 0.00664843, 0.00793901, 0.00947399, 0.0112971, 0.0134587, 0.0160166, 0.0190363, 0.0225914, 0.0267631, 0.0316397, 0.0373148, 0.043885, 0.0514461, 0.0600879, 0.0698874, 0.0809002, 0.0931533, 0.106632, 0.121282, 0.136995, 0.15361, 0.17092, 0.188673, 0.206591, 0.22439, 0.241776, 0.258342, 0.274009, 0.288632, 0.302104, 0.314365, 0.325402, 0.335244, 0.343945, 0.351577, 0.358226, 0.363984, 0.368943, 0.373197, 0.37683]   [0.362056, -0.890573, 0.00227909, 0.0027327, 0.00327586, 0.00392596, 0.00470346, 0.00563243, 0.00674171, 0.00806489, 0.00964131, 0.0115166, 0.0137437, 0.0163829, 0.019503, 0.0231806, 0.0275009, 0.0325555, 0.0384417, 0.045259, 0.0531049, 0.0620694, 0.0722277, 0.0836314, 0.0962999, 0.110211, 0.125293, 0.14142, 0.158414, 0.176046, 0.194049, 0.212135, 0.230009, 0.247395, 0.264044, 0.279747, 0.294353, 0.307766, 0.320037, 0.331113, 0.340971, 0.3497, 0.357357, 0.364028, 0.369811, 0.374797, 0.379077, 0.382739]     time:   12.014401059 (s)
+added con      264
+relaxed_LB_trial       38.287866819144384
+iterative relax time:   0.460469172 (s)Optimal    38.287866819144384
+reduction_relax0
+all node solved
+Solution time:   4285.226157877 (s)
+solved nodes:  3
+relax_LB_time_total:   25.178956040999996 (s)
+global_LB_time_total:   2.358586992 (s)
+local_UB_time_total:   78.268833254 (s)
+global_UB_time_total:   1.3104363460000001 (s)
+BT_time_total:   4154.575246130001 (s)
+VS_time_total:   0.038355442 (s)
+3                                                     3.8129e+01     3.8510e+01     1.0000  % 
+first stage sol   [0.361514, -0.915919, 0.00227797, 0.00273059, 0.00327239, 0.00392059, 0.00469563, 0.00562163, 0.00672703, 0.00804522, 0.0096152, 0.0114823, 0.0136988, 0.0163246, 0.0194277, 0.023084, 0.0273773, 0.0323984, 0.0382429, 0.0450086, 0.0527911, 0.0616783, 0.071743, 0.0830346, 0.0955702, 0.109326, 0.124228, 0.140153, 0.156922, 0.174309, 0.192053, 0.209868, 0.227466, 0.244574, 0.260948, 0.27639, 0.29075, 0.303931, 0.315887, 0.326616, 0.336151, 0.344553, 0.3519, 0.358283, 0.363795, 0.368534, 0.372589, 0.376047]
+LB_UB_list   Any[[30.0743, 38.5098, 1.0, 2.0], [38.1285, 38.5098, 1.0, 1.0], [30.0743, 38.5098, 1.0, 1.0]]

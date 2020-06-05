@@ -32,7 +32,18 @@ files = [
 "Global/st_rv2S100.out",
 "Global/st_rv3S100.out",
 "Global/st_rv7S100.out",
-"Global/st_rv8S100.out"];
+"Global/st_rv8S100.out",
+"Global/cheneryS100.out",
+"Global/8_4_8S100.out",
+"Global/8_4_8_bndS100.out",
+"Global/harkerS100.out",
+"Global/pollutS100.out",
+"Global/ramseyS100.out",
+"Global/srcpmS100.out"]
+
+
+
+
 
 NF = length(files)
 Time = 1e5*ones(NF)
@@ -43,7 +54,7 @@ for i = 1:NF
    print(file)
    f = open(file) 
    nl = 1
-   nl_node = -1
+   nl_node = -10
    while !eof(f)
      x = readline(f)
      if contains(x, "Solution time:  ")
@@ -57,7 +68,7 @@ for i = 1:NF
         Nodes[i] = number
 	nl_node = nl
      end
-     if nl == (nl_node + 1)
+     if nl == (nl_node + 7)
         number_as_string = split(x)[end-2]
         number = parse(Float64, number_as_string)
         Results[i] = number
@@ -115,7 +126,15 @@ Results_best = [
 -9161.0760
 -3682.6350
 -14842.9200
--13263.8200]
+-13263.8200
+-1.0697e+05
+-0.000041
+0
+-112750.000000
+-619230000.000000
+-387.770000
+210980.000000]
+
 
 
 for i = 1:NF    

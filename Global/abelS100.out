@@ -1,0 +1,287 @@
+WARNING: using JuMP.getdual in module Main conflicts with an existing identifier.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+No. of first stage variables  5
+No. of second stage variables 28
+No. of second stage constraints 14
+No. of scenarios  100
+No. of total variables 2305
+No. of total constraints 1895
+No. of binary variables 0
+No. of continuous variables 2305
+prime_status_trial   Optimal    10069.406121566892
+prime_status_trial   Optimal    10069.406139582396
+prime_status_trial   Optimal    10069.40616632998
+updated   true   10069.406121566892
+U:   10069.406121566892
+U:   10069.406121566892
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+preprocess:   3.462032927 (s)
+extensive:   0.222042362 (s)
+No. of nonlinear variables  2305
+No. of nonlinear Terms  2305
+preprocessex:   0.500807855 (s)
+U:   10069.406121566892
+additional  variables:  2305
+relax:   0.370898923 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 1.0069e+04     99310822.7901 % 
+before feasibility reduction [299.238, 196.319, 99.7051, 9.01638, 123.632]   [476.616, 580.334, 678.412, 771.159, 694.977]
+after initial feasibility reduction [299.238, 240.832, 193.91, 193.854, 208.944]   [476.616, 535.821, 582.756, 600.71, 603.148]     time:   5.476643145 (s)
+1    299.23803807147254    476.6162480102522
+relaxed_status  Optimal relaxed_LB   3.2920081879887883e-6  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   1.4185139341213292e-11  UB  10069.406121566892
+2    240.83234920451852    535.8207059170052
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+A [315.153, 339.162, 193.91, 193.854, 208.944]     [466.209, 509.705, 582.756, 600.71, 603.148]
+B [315.153, 339.162, 232.255, 193.854, 208.944]     [466.209, 509.705, 582.756, 600.71, 603.148]true
+2    339.16180144201405    509.7045204146524
+relaxed_status  Optimal relaxed_LB   3.754997665591005e-13  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   4.619870107035176e-13  UB  10069.406121566892
+A [315.153, 339.162, 232.255, 193.854, 208.944]     [466.209, 452.857, 582.756, 600.71, 603.148]
+B [315.153, 339.162, 233.857, 193.854, 208.944]     [466.209, 452.857, 557.871, 600.71, 603.148]true
+2    339.16180144201405    452.85694742377297
+relaxed_status  Optimal relaxed_LB   2.281246699228263e-13  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   1.0423039606036581e-15  UB  10069.406121566892
+3    233.85704274712836    557.8709804587415
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+A [315.153, 339.162, 341.862, 193.854, 208.944]     [466.209, 452.857, 449.866, 600.71, 603.148]
+B [315.153, 339.162, 341.862, 236.79, 208.944]     [466.209, 452.857, 449.866, 555.442, 603.148]true
+3    341.86168865099944    449.8663345548705
+relaxed_status  Optimal relaxed_LB   1.0192379391405076e-15  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   1.5015917430175076e-12  UB  10069.406121566892
+4    236.7900346847908    555.4424448473508
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+A [315.153, 339.162, 341.862, 343.008, 208.944]     [466.209, 452.857, 449.866, 498.355, 603.148]
+B [315.153, 339.162, 341.862, 343.008, 236.854]     [466.209, 452.857, 449.866, 498.355, 600.113]true
+4    343.00750473897745    498.3551815799325
+relaxed_status  Optimal relaxed_LB   1.7576448078059157e-16  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   1.3448820295882822e-13  UB  10069.406121566892
+5    236.8542997781581    600.1128009960895
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  10069.406121566892
+A [315.153, 339.162, 341.862, 343.008, 280.512]     [466.209, 452.857, 449.866, 498.355, 479.027]
+B [315.153, 339.162, 341.862, 343.008, 280.512]     [466.209, 452.857, 449.866, 498.355, 479.027]true
+5    280.5120398734842    479.0266339234457
+relaxed_status  Optimal relaxed_LB   8.54958606343099e-17  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   5.525863140228618e-15  UB  10069.406121566892
+A [315.153, 339.162, 341.862, 343.008, 346.684]     [466.209, 452.857, 449.866, 498.355, 479.027]
+B [315.153, 339.162, 341.862, 343.008, 346.684]     [466.209, 452.857, 449.866, 498.355, 479.027]true
+5    346.68357122347135    479.0266339234457
+relaxed_status  Optimal relaxed_LB   5.513177948545041e-13  UB  10069.406121566892
+relaxed_status  Optimal relaxed_LB   4.954573060884989e-15  UB  10069.406121566892
+after probing [315.153, 339.162, 341.862, 343.008, 346.684]   [466.209, 452.857, 449.866, 498.355, 479.027]
+probing time:   69.823639681 (s)true
+added con      1996
+relaxed_LB_trial       0.0
+added con      2228
+relaxed_LB_trial       0.0
+added con      2294
+relaxed_LB_trial       0.0
+added con      2305
+relaxed_LB_trial       0.0
+added con      2305
+relaxed_LB_trial       0.0
+added con      2305
+relaxed_LB_trial       0.0
+added con      2304
+relaxed_LB_trial       0.0
+added con      2304
+relaxed_LB_trial       198.0002171670494
+added con      2304
+relaxed_LB_trial       2440.2679225040256
+added con      2305
+relaxed_LB_trial       6028.957750361605
+added con      2305
+relaxed_LB_trial       8730.547218634414
+added con      2305
+relaxed_LB_trial       9658.917321658522
+added con      2302
+relaxed_LB_trial       9963.686006035143
+added con      2304
+relaxed_LB_trial       10040.366864908672
+iterative relax time:   9.831113482 (s)Optimal    10040.366864908672
+reduction_relax0
+all node solved
+Solution time:   102.081437688 (s)
+solved nodes:  1
+relax_LB_time_total:   10.664240632 (s)
+global_LB_time_total:   0 (s)
+local_UB_time_total:   2.51996142 (s)
+global_UB_time_total:   0 (s)
+BT_time_total:   81.85930584399999 (s)
+VS_time_total:   0 (s)
+1                                                     9.9697e+03     1.0069e+04     1.0000  % 
+first stage sol   [390.377, 392.284, 396.5, 402.455, 407.742]
+LB_UB_list   Any[[-1.0e10, 10069.4, 1.0, 1.0]]
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: Solver does not appear to support hot-starts. Model will be built from scratch.
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available

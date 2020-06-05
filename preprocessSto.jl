@@ -7,6 +7,7 @@ function preprocessSto!(P)
         end
     end
 
+    # find index of first stage variables in each scenario. Linking constraints is stored in the master node. Each linking constraint involves 1 variable from master node and 1 varibale from a scenario node.
     ncols_first = P.numCols
     for (idx,scenario) in enumerate(scenarios)    
     	scenario.ext[:firstVarsId] = zeros(Int, ncols_first)
@@ -34,39 +35,48 @@ function preprocessSto!(P)
     ncols =  P.numCols
     for i in 1:ncols
         if P.colLower[i] == -Inf
-            P.colLower[i] = -1e8
+            P.colLower[i] = default_lower_bound_value
         end
         if P.colUpper[i] == Inf
-            P.colUpper[i] = 1e8
+            P.colUpper[i] = default_upper_bound_value
         end
     end
     for (idx,scenario) in enumerate(scenarios)
-    	nsecond =  scenario.numCols
-    	for i in 1:nsecond
+    	for i in 1:scenario.numCols
             if scenario.colLower[i] == -Inf
-                scenario.colLower[i] = -1e8
+                scenario.colLower[i] = default_lower_bound_value
             end
             if scenario.colUpper[i] == Inf
-                scenario.colUpper[i] = 1e8
+                scenario.colUpper[i] = default_upper_bound_value
             end
     	end
-	println("first:  ", scenario.ext[:firstVarsId])
+	if debug
+	    println("first:  ", scenario.ext[:firstVarsId])
+	end    
     end
+    updateStoFirstBounds!(P)    
 
-    for (idx,scenario) in enumerate(scenarios)
-    	firstVarsId = scenario.ext[:firstVarsId]
-    	for i in 1:ncols	   
-	    if firstVarsId[i] > 0
-                if scenario.colLower[firstVarsId[i]] >  P.colLower[i] 
-                    P.colLower[i] = scenario.colLower[firstVarsId[i]]
-		end
-                if scenario.colUpper[firstVarsId[i]] <  P.colUpper[i]
-                    P.colUpper[i] = scenario.colUpper[firstVarsId[i]]
-                end    
+
+    nscen = length(scenarios)
+    pr_children = []
+    for (idx,scen) in enumerate(scenarios)
+        #println("scen: ",scen)
+        pr, scenarios[idx] = preprocess!(scen)
+        push!(pr_children, pr)
+
+        for i = 1:length(P.linconstr)
+            Pcon = P.linconstr[i]
+            Pvars = Pcon.terms.vars
+            for (j, Pvar) in enumerate(Pvars)
+                if (Pvar.m == scen)
+                     Pvars[j] = Variable(scenarios[idx], Pvar.col)
+                end
             end
-        end    	
+        end
+	scen = -1
     end
-    updateFirstBounds!(P, P.colLower, P.colUpper)
+    return pr_children
+
 end
 
 

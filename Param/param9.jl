@@ -101,7 +101,7 @@ end
 
 
 
-j = 1
+j = 9
 println("j:   ", j)
 lt0 = length(time0)
 nstepPpiece = 1   

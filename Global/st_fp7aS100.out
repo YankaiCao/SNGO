@@ -1,0 +1,306 @@
+WARNING: using JuMP.getdual in module Main conflicts with an existing identifier.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: Solver does not appear to support hot-starts. Model will be built from scratch.
+WARNING: Nonlinear solver does not provide dual solutions
+No. of first stage variables  5
+No. of second stage variables 20
+No. of second stage constraints 10
+No. of scenarios  100
+No. of total variables 1505
+No. of total constraints 1000
+No. of binary variables 0
+No. of continuous variables 1505
+prime_status_trial   Optimal    64.58880703885008
+prime_status_trial   Optimal    -21514.49276384979
+prime_status_trial   Optimal    -21706.542387913832
+updated   true   -21706.542387913832
+U:   -21706.542387913832
+U:   -21706.542387913832
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+preprocess:   5.292038818 (s)
+extensive:   0.388587909 (s)
+No. of nonlinear variables  1505
+No. of nonlinear Terms  1505
+preprocessex:   0.555397339 (s)
+U:   -21706.546091128344
+additional  variables:  1505
+relax:   0.419367116 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 -2.1707e+04    46068951.9718 % 
+before feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [40.0, 40.0, 40.0, 40.0, 40.0]
+after initial feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [18.2199, 17.4028, 28.8135, 25.7849, 19.1403]     time:   3.954784979 (s)
+1    0.0    18.219863325740278
+relaxed_status  Optimal relaxed_LB   -72000.0  UB  -21706.546091128344
+relaxed_status  Optimal relaxed_LB   -52158.44432888203  UB  -21706.546091128344
+2    0.0    17.402783895699798
+relaxed_status  Optimal relaxed_LB   -71999.99999774294  UB  -21706.546091128344
+relaxed_status  Optimal relaxed_LB   -51789.25029438292  UB  -21706.546091128344
+3    0.0    28.813464684760334
+relaxed_status  Optimal relaxed_LB   -71999.99999921164  UB  -21706.546091128344
+relaxed_status  Optimal relaxed_LB   -55883.85798747768  UB  -21706.546091128344
+4    0.0    25.784911002440985
+relaxed_status  Optimal relaxed_LB   -71999.99999990012  UB  -21706.546091128344
+relaxed_status  Optimal relaxed_LB   -50132.6265218514  UB  -21706.546091128344
+5    0.0    19.14026101272263
+relaxed_status  Optimal relaxed_LB   -71999.9999980207  UB  -21706.546091128344
+relaxed_status  Optimal relaxed_LB   -48584.759895221796  UB  -21706.546091128344
+after probing [0.0, 0.0, 0.0, 0.0, 0.0]   [18.2199, 17.4028, 28.8135, 25.7849, 19.1403]
+probing time:   12.826572451 (s)true
+added con      0
+iterative relax time:   0.053158333 (s)Optimal    -72000.0
+relaxed_LB  -72000.0
+after multiplier medium feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [18.2199, 17.4028, 28.8135, 25.7849, 19.1403]
+reduction_relax0
+  scenario :  1   WS  scip statusOptimal  obj -354.7506678789827 lb  -356.3739777192486
+  scenario :  2   WS  scip statusOptimal  obj -356.5892867193322 lb  -358.3111506465293
+  scenario :  3   WS  scip statusOptimal  obj -355.7043534276027 lb  -357.28072086240616
+  scenario :  4   WS  scip statusOptimal  obj -357.7088097918464 lb  -359.3218448739432
+  scenario :  5   WS  scip statusOptimal  obj -355.16172672230186 lb  -356.67675971721127
+  scenario :  6   WS  scip statusOptimal  obj -357.7028607123572 lb  -358.9957057014338
+  scenario :  7   WS  scip statusOptimal  obj -355.3557817634779 lb  -356.93756330078685
+  scenario :  8   WS  scip statusOptimal  obj -355.0450216249906 lb  -356.73024011502315
+  scenario :  9   WS  scip statusOptimal  obj -356.52342260270507 lb  -357.9649910789282
+  scenario :  10   WS  scip statusOptimal  obj -355.8906396486747 lb  -357.4276986308994
+  scenario :  11   WS  scip statusOptimal  obj -356.32060178022283 lb  -357.8390070228076
+  scenario :  12   WS  scip statusOptimal  obj -356.9740083176587 lb  -358.4256969223012
+  scenario :  13   WS  scip statusOptimal  obj -357.5392172143386 lb  -358.7536746527273
+  scenario :  14   WS  scip statusOptimal  obj -357.0578090466065 lb  -358.11868747476086
+  scenario :  15   WS  scip statusOptimal  obj -355.61767474609576 lb  -357.3324368515404
+  scenario :  16   WS  scip statusOptimal  obj -355.2767502549127 lb  -356.5169668991277
+  scenario :  17   WS  scip statusOptimal  obj -355.11694424187624 lb  -355.9764092625846
+  scenario :  18   WS  scip statusOptimal  obj -355.73365823270035 lb  -357.4638949292878
+  scenario :  19   WS  scip statusOptimal  obj -355.306476706089 lb  -356.8789193672835
+  scenario :  20   WS  scip statusOptimal  obj -357.5746849816468 lb  -359.33106583047663
+  scenario :  21   WS  scip statusOptimal  obj -357.4795880755552 lb  -359.05798256660967
+  scenario :  22   WS  scip statusOptimal  obj -356.756372132041 lb  -358.25611072169903
+  scenario :  23   WS  scip statusOptimal  obj -358.0283954829152 lb  -358.0283954829152
+  scenario :  24   WS  scip statusOptimal  obj -358.0115661806156 lb  -359.4259164939006
+  scenario :  25   WS  scip statusOptimal  obj -357.70724643607764 lb  -359.44614992853377
+  scenario :  26   WS  scip statusOptimal  obj -355.54740279987203 lb  -357.090506935109
+  scenario :  27   WS  scip statusOptimal  obj -357.0209729795691 lb  -358.6550145699542
+  scenario :  28   WS  scip statusOptimal  obj -357.12778940512555 lb  -358.731983489019
+  scenario :  29   WS  scip statusOptimal  obj -356.49374086354317 lb  -358.15704037667894
+  scenario :  30   WS  scip statusOptimal  obj -356.2669524942835 lb  -357.90381999393605
+  scenario :  31   WS  scip statusOptimal  obj -357.0174223318887 lb  -358.5839900123314
+  scenario :  32   WS  scip statusOptimal  obj -357.1996658972302 lb  -358.54121073887944
+  scenario :  33   WS  scip statusOptimal  obj -356.2759431219411 lb  -356.6597469650851
+  scenario :  34   WS  scip statusOptimal  obj -356.7784825447162 lb  -358.37578749711764
+  scenario :  35   WS  scip statusOptimal  obj -356.0116664526827 lb  -357.67738356620157
+  scenario :  36   WS  scip statusOptimal  obj -357.9078802733947 lb  -357.9078802733947
+  scenario :  37   WS  scip statusOptimal  obj -357.289481260139 lb  -358.5677329432933
+  scenario :  38   WS  scip statusOptimal  obj -355.47875117299947 lb  -356.9591110839174
+  scenario :  39   WS  scip statusOptimal  obj -357.87306622391486 lb  -358.8873092663128
+  scenario :  40   WS  scip statusOptimal  obj -357.9130609384608 lb  -359.5513845969166
+  scenario :  41   WS  scip statusOptimal  obj -356.03232405554564 lb  -357.7846409882845
+  scenario :  42   WS  scip statusOptimal  obj -356.68790389651184 lb  -358.12111037277424
+  scenario :  43   WS  scip statusOptimal  obj -355.40316827083393 lb  -357.16470249035604
+  scenario :  44   WS  scip statusOptimal  obj -358.0269790340664 lb  -359.6957221403044
+  scenario :  45   WS  scip statusOptimal  obj -355.12937435581546 lb  -356.8904245282092
+  scenario :  46   WS  scip statusOptimal  obj -355.1618210733557 lb  -356.9277369197053
+  scenario :  47   WS  scip statusOptimal  obj -356.14309687408763 lb  -357.9210534438703
+  scenario :  48   WS  scip statusOptimal  obj -356.91350003456967 lb  -358.3784867524028
+  scenario :  49   WS  scip statusOptimal  obj -357.1552422484756 lb  -358.40552170290374
+  scenario :  50   WS  scip statusOptimal  obj -358.0119856707289 lb  -359.5116034559768
+  scenario :  51   WS  scip statusOptimal  obj -355.221451726505 lb  -356.8306944154918
+  scenario :  52   WS  scip statusOptimal  obj -357.7753888867861 lb  -359.5579816671448
+  scenario :  53   WS  scip statusOptimal  obj -357.9335761098897 lb  -359.72083888103464
+  scenario :  54   WS  scip statusOptimal  obj -356.8815512734349 lb  -358.577003133769
+  scenario :  55   WS  scip statusOptimal  obj -357.7512685628172 lb  -359.3334614570372
+  scenario :  56   WS  scip statusOptimal  obj -357.09981312423923 lb  -358.2862668071365
+  scenario :  57   WS  scip statusOptimal  obj -355.4856418361382 lb  -357.13780095164975
+  scenario :  58   WS  scip statusOptimal  obj -355.16698370257706 lb  -356.9162940515872
+  scenario :  59   WS  scip statusOptimal  obj -356.6853583490109 lb  -358.2231663147182
+  scenario :  60   WS  scip statusOptimal  obj -355.8703463867659 lb  -357.6120909661602
+  scenario :  61   WS  scip statusOptimal  obj -356.0095630368373 lb  -357.7185438994046
+  scenario :  62   WS  scip statusOptimal  obj -357.3318941206318 lb  -358.8203323274208
+  scenario :  63   WS  scip statusOptimal  obj -357.4614154280823 lb  -359.23901505403126
+  scenario :  64   WS  scip statusOptimal  obj -355.8079316953051 lb  -357.5568036472644
+  scenario :  65   WS  scip statusOptimal  obj -357.7411559245736 lb  -359.2684155361332
+  scenario :  66   WS  scip statusOptimal  obj -355.63641744680655 lb  -357.22945006229776
+  scenario :  67   WS  scip statusOptimal  obj -357.62863118688466 lb  -358.9073022516033
+  scenario :  68   WS  scip statusOptimal  obj -354.8984498593486 lb  -356.58281174091167
+  scenario :  69   WS  scip statusOptimal  obj -357.69857502523666 lb  -359.3465416979042
+  scenario :  70   WS  scip statusOptimal  obj -357.2760387385491 lb  -359.02568289592585
+  scenario :  71   WS  scip statusOptimal  obj -355.239995726177 lb  -356.7100294371193
+  scenario :  72   WS  scip statusOptimal  obj -356.66959761644426 lb  -357.93794014260624
+  scenario :  73   WS  scip statusOptimal  obj -357.996812434115 lb  -358.73362956543906
+  scenario :  74   WS  scip statusOptimal  obj -355.6813799161928 lb  -356.53068232019643
+  scenario :  75   WS  scip statusOptimal  obj -357.63766485426214 lb  -359.40739690567403
+  scenario :  76   WS  scip statusOptimal  obj -357.87484571481406 lb  -359.2097304356999
+  scenario :  77   WS  scip statusOptimal  obj -355.0626134837585 lb  -356.7417049831929
+  scenario :  78   WS  scip statusOptimal  obj -355.5316622960739 lb  -357.29704086058655
+  scenario :  79   WS  scip statusOptimal  obj -355.21858747098304 lb  -356.9078563964364
+  scenario :  80   WS  scip statusOptimal  obj -357.29187609069527 lb  -358.6951558716236
+  scenario :  81   WS  scip statusOptimal  obj -356.8244251976287 lb  -358.363800192372
+  scenario :  82   WS  scip statusOptimal  obj -355.2932750488128 lb  -356.94113113651935
+  scenario :  83   WS  scip statusOptimal  obj -357.1973293269129 lb  -358.9569500735719
+  scenario :  84   WS  scip statusOptimal  obj -358.0282037971055 lb  -359.6209027019044
+  scenario :  85   WS  scip statusOptimal  obj -356.1627427709761 lb  -357.0718092125516
+  scenario :  86   WS  scip statusOptimal  obj -357.01580410520995 lb  -358.0657406515255
+  scenario :  87   WS  scip statusOptimal  obj -355.210781715132 lb  -356.86166354420516
+  scenario :  88   WS  scip statusOptimal  obj -355.8561239906093 lb  -357.37156950810277
+  scenario :  89   WS  scip statusOptimal  obj -357.6513643132716 lb  -359.3045033168465
+  scenario :  90   WS  scip statusOptimal  obj -356.7317545253085 lb  -358.20999277115874
+  scenario :  91   WS  scip statusOptimal  obj -356.8864025796374 lb  -358.18785221747515
+  scenario :  92   WS  scip statusOptimal  obj -355.4270045989132 lb  -356.8784130559404
+  scenario :  93   WS  scip statusOptimal  obj -357.03098265145024 lb  -358.2202113628491
+  scenario :  94   WS  scip statusOptimal  obj -355.5264622015957 lb  -357.15977878319757
+  scenario :  95   WS  scip statusOptimal  obj -355.4541214996901 lb  -357.12168497994014
+  scenario :  96   WS  scip statusOptimal  obj -357.18042883591403 lb  -358.782796619864
+  scenario :  97   WS  scip statusOptimal  obj -357.8728658629231 lb  -359.30709985548117
+  scenario :  98   WS  scip statusOptimal  obj -356.6897303926747 lb  -358.4483758762354
+  scenario :  99   WS  scip statusOptimal  obj -358.00865532758604 lb  -359.58992596689626
+  scenario :  100   WS  scip statusOptimal  obj -355.34621482947745 lb  -356.8882607488589
+WS_status  Optimal  WS_LB -35805.336999408595
+WS Lower time:   37.051530118 (s)
+FLB: -21706.546091128344
+node L:-35805.336999408595
+global L:-35805.336999408595
+local_UB  Optimal-35655.52312945628
+node U:-35655.52312945628
+upper time:   21.246740217000003 (s)
+UB:  -35655.52312945628
+before multiplier medium feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [18.2199, 17.4028, 28.8135, 25.7849, 19.1403]
+all node solved
+Solution time:   96.258991487 (s)
+solved nodes:  1
+relax_LB_time_total:   2.161949907 (s)
+global_LB_time_total:   37.051530118 (s)
+local_UB_time_total:   21.246740217000003 (s)
+global_UB_time_total:   0.5166021869999997 (s)
+BT_time_total:   24.206062328 (s)
+VS_time_total:   0 (s)
+1                                                     -3.6012e+04    -3.5656e+04    1.0000  % 
+first stage sol   [0.0, 0.0, 28.8135, 0.0, 0.0]
+LB_UB_list   Any[[-1.0e10, -21706.5, 2.0, 1.0]]

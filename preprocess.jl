@@ -1,4 +1,5 @@
-function preprocess!(P)
+function preprocess!(m)
+    P = factorable!(m)	 
     quadObj = nothing
     # provide initial value if not defined
     for i in 1:length(P.colVal)
@@ -29,18 +30,19 @@ function preprocess!(P)
         end
     #end
 
+
     # provide bounds if not defined
-    
-    ncols =  P.numCols    
+    ncols =  P.numCols
     for i in 1:ncols
         if P.colLower[i] == -Inf
-            P.colLower[i] = -1e8
+            P.colLower[i] = default_lower_bound_value
         end
         if P.colUpper[i] == Inf
-            P.colUpper[i] = 1e8
-        end
+            P.colUpper[i] = default_upper_bound_value
+	    end
     end
-    
+
+
     for i = 1:length(P.linconstr)
     	squeeze!(P.linconstr[i].terms)
     end
@@ -123,7 +125,38 @@ function preprocess!(P)
     end
     branchVarsId = sort(union(branchVarsId))
 
-    
+
+    num_cons = MathProgBase.numconstr(P)
+    expVariable_list = []
+    logVariable_list = []
+    powerVariable_list = []
+    monomialVariable_list = []
+    d = JuMP.NLPEvaluator(P)
+    MathProgBase.initialize(d,[:ExprGraph])
+    for i = (1+length(P.linconstr)+length(P.quadconstr)):num_cons
+    	expr = MathProgBase.constr_expr(d,i)
+	if isexponentialcon(expr)
+	   ev = parseexponentialcon(expr)
+	   push!(expVariable_list, ev)
+        elseif islogcon(expr)
+           ev = parselogcon(expr)
+           push!(logVariable_list, ev)
+        elseif ispowercon(expr)
+           ev = parsepowercon(expr)
+           push!(powerVariable_list, ev)
+        elseif ismonomialcon(expr)
+           ev = parsemonomialcon(expr)
+	   push!(expVariable_list, ev)
+           #push!(monomialVariable_list, ev)
+        end
+    end
+    #=
+    println(expVariable_list)
+    println(logVariable_list)
+    println(powerVariable_list)
+    println(monomialVariable_list)
+    =#
+
     Pcopy = copyModel(P)
     multiVariable_list = []
     multiVariable_convex = []
@@ -136,6 +169,21 @@ function preprocess!(P)
 	    qcoeffs = terms.qcoeffs
 	    aff = terms.aff
 	    mvs = MultiVariable[]
+
+	  #=  
+          println("preprocess:   ",con, "   ", i)
+          for i in 1:length(qcoeffs)
+              println("Qid    ", qvars1[i].col, "   ",qvars2[i].col, "   ", qcoeffs[i])
+              println("x1  lb ub  ",P.colLower[qvars1[i].col], "    ", P.colUpper[qvars1[i].col])
+              println("x2  lb ub  ",P.colLower[qvars2[i].col], "    ", P.colUpper[qvars2[i].col])
+          end
+          for i in 1:length(aff.vars)
+              println("aid   ", aff.vars[i].col, "   ", aff.coeffs[i])
+              println("x  lb   ub ", P.colLower[aff.vars[i].col], "    ", P.colUpper[aff.vars[i].col])
+          end
+	  =#
+
+
 
 	    remain=collect(1:length(qvars1))	    
 	    while length(remain) != 0
@@ -232,7 +280,7 @@ function preprocess!(P)
                     mv.pd = 0
 		 end   		    
 		 if mv.pd == 0 
-		    alpha = Array(Float64, C)
+		    alpha = Array{Float64}(C)
 		    lamda_min = minimum(val)
 		    added = true
 
@@ -242,7 +290,7 @@ function preprocess!(P)
 			end
 		    end
 		    for k in 1:C
-		    	alpha[k] = max(0,  min(-lamda_min, sum(abs(Q[k,:])) - 2*Q[k,k])) 
+		    	alpha[k] = max(0,  min(-lamda_min, sum(abs.(Q[k,:])) - 2*Q[k,k])) 
 			varId =  mv.qVarsId[k]
                         if !haskey(qbVarsId, (varId, varId))
 			    added = false
@@ -258,13 +306,15 @@ function preprocess!(P)
 		 end		 
 	    end
 	    push!(multiVariable_list, MultiVariableCon(mvs, copy(affcopy)))
+	    #println(MultiVariableCon(mvs, copy(affcopy)))
+	    #println(multiVariable_list)
     end
+
+
 
 
     # create RLT
     EqVconstr = LinearConstraint[]      
-    
-
     for i = 1:length(Pcopy.linconstr)
         con = Pcopy.linconstr[i]
         if con.lb == con.ub
@@ -303,7 +353,12 @@ function preprocess!(P)
     pr.multiVariable_list = multiVariable_list
     pr.multiVariable_convex = multiVariable_convex
     pr.multiVariable_aBB = multiVariable_aBB
-    return pr
+  
+    pr.expVariable_list = expVariable_list
+    pr.logVariable_list = logVariable_list
+    pr.powerVariable_list = powerVariable_list
+    pr.monomialVariable_list = monomialVariable_list 
+    return pr, P
 end
 
 function findnode(c, nlinconstrs)

@@ -1,0 +1,213 @@
+WARNING: using JuMP.getdual in module Main conflicts with an existing identifier.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+WARNING: NLP resolve is now enabled by default. The EnableNLPResolve() method will be removed in a future release.
+WARNING: Solver does not appear to support hot-starts. Model will be built from scratch.
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+WARNING: Infeasibility ray (Farkas proof) not available
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Suboptimal
+WARNING: Not solved to optimality, status: Infeasible
+No. of first stage variables  5
+No. of second stage variables 32
+No. of second stage constraints 19
+No. of scenarios  100
+No. of total variables 2705
+No. of total constraints 1900
+No. of binary variables 0
+No. of continuous variables 2705
+prime_status_trial   Optimal    -354244.74488763727
+prime_status_trial   Infeasible    NaN
+prime_status_trial   Optimal    -354244.72122113407
+updated   true   -354244.74488763727
+U:   -354244.74488763727
+U:   -354244.74488763727
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+first:  [1, 2, 3, 4, 5]
+preprocess:   5.073487353 (s)
+extensive:   0.115232246 (s)
+No. of nonlinear variables  2205
+No. of nonlinear Terms  6000
+preprocessex:   1.684743427 (s)
+U:   -354244.74488763727
+additional  variables:  6000
+relax:   0.529546185 (s)
+ iter  left  lev   bVarId       bvlb             bvub             LB              UB            gap   
+remaining 1   -1.0e10
+1      0      1                                        -10000000000.0000 -3.5424e+05    2822807.0845 % 
+before feasibility reduction [0.0, 0.0, 0.0, 0.0, 0.0]   [1.0, 1.0, 1.0, 1.0, 1.0]
+after initial feasibility reduction [7.52319e-6, 7.52194e-6, 0.0, 1.27516e-5, 0.0]   [1.0, 1.0, 1.0, 0.999968, 0.999965]     time:   14.217813355 (s)
+1    7.5231918357233614e-6    1.0
+relaxed_status  Optimal relaxed_LB   -354244.73743973055  UB  -354244.74488763727
+update P.colLower
+updated point7.767638866219432e-6xl7.5231918357233614e-6   dual -30468.386940475328
+relaxed_status  Infeasible relaxed_LB   2.0e10  UB  -354244.74488763727
+2    7.521938412344926e-6    1.0
+relaxed_status  Suboptimal relaxed_LB   -1.0e10  UB  -354244.74488763727
+relaxed_status  Optimal relaxed_LB   -354244.72229307453  UB  -354244.74488763727
+3    0.0    1.0
+relaxed_status  Suboptimal relaxed_LB   -1.0e10  UB  -354244.74488763727
+relaxed_status  Suboptimal relaxed_LB   -1.0e10  UB  -354244.74488763727
+4    1.2751605947040266e-5    0.9999682946387478
+relaxed_status  Optimal relaxed_LB   -354244.73344834783  UB  -354244.74488763727
+relaxed_status  Optimal relaxed_LB   -354244.73556425155  UB  -354244.74488763727
+5    0.0    0.9999648531930597
+relaxed_status  Optimal relaxed_LB   -354244.73151295277  UB  -354244.74488763727
+relaxed_status  Suboptimal relaxed_LB   -1.0e10  UB  -354244.74488763727
+after probing [7.76764e-6, 7.52194e-6, 0.0, 1.27516e-5, 0.0]   [0.999987, 1.0, 1.0, 0.999968, 0.999965]
+probing time:   43.740225577 (s)true
+iterative relax time:   0.354410626 (s)Infeasible    2.0e10
+relaxed_LB  2.0e10
+reduction_relax0
+all node solved
+Solution time:   122.820957224 (s)
+solved nodes:  1
+relax_LB_time_total:   1.255228731 (s)
+global_LB_time_total:   0 (s)
+local_UB_time_total:   43.6512371 (s)
+global_UB_time_total:   0 (s)
+BT_time_total:   63.512403363 (s)
+VS_time_total:   0 (s)
+1                                                     -3.5779e+05    -3.5424e+05    1.0000  % 
+first stage sol   [1.0404e-8, 0.303286, 0.862946, 0.0, 0.0]
+LB_UB_list   Any[[-1.0e10, -3.54245e5, 1.0, 1.0]]

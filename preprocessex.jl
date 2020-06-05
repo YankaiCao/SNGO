@@ -24,10 +24,10 @@ function preprocessex!(P)
 
     for i in 1:P.numCols
         if P.colLower[i] == -Inf
-            P.colLower[i] = -1e8
+            P.colLower[i] = default_lower_bound_value
         end
         if P.colUpper[i] == Inf
-            P.colUpper[i] = 1e8
+            P.colUpper[i] = default_upper_bound_value
         end
     end
 
@@ -79,7 +79,6 @@ function preprocessex!(P)
     m.colUpper = P.colUpper[:]
     m.colCat = P.colCat[:]
     m.colVal = P.colVal[:]
-
     # Constraints
     m.linconstr  = map(c->copy(c, m), P.linconstr)
     # Objective
@@ -93,6 +92,7 @@ function preprocessex!(P)
     	push!(qbVarsId, Dict())
     end
     bilinearVars = []
+    bid = 1
     for i = 1:length(P.quadconstr)
             con = P.quadconstr[i]
             terms = con.terms
@@ -102,10 +102,9 @@ function preprocessex!(P)
 	    	if !haskey(qbVarsId[qvars1[j].col], qvars2[j].col) 
                        push!(branchVarsId, qvars1[j].col)
                        push!(branchVarsId, qvars2[j].col)
-                       bilinear = @variable(m)
+		       bilinear = @variable(m)
                        varname = " bilinear_con$(i)_"*string(qvars1[j])*"_"*string(qvars2[j])*"_$(j)"
                        setname(bilinear, varname)
-
                        push!(bilinearVars, bilinear)
 		       qbVarsId[qvars1[j].col][qvars2[j].col] = bilinear.col
 		       qbVarsId[qvars2[j].col][qvars1[j].col] =	bilinear.col
@@ -115,6 +114,39 @@ function preprocessex!(P)
     branchVarsId = sort(union(branchVarsId))
     println("No. of nonlinear variables  ", length(branchVarsId))
     println("No. of nonlinear Terms  ", length(bilinearVars))
+
+
+
+    num_cons = MathProgBase.numconstr(P)
+    expVariable_list = []
+    logVariable_list = []
+    powerVariable_list = []
+    monomialVariable_list = []
+    d = JuMP.NLPEvaluator(P)
+    MathProgBase.initialize(d,[:ExprGraph])
+    for i = (1+length(P.linconstr)+length(P.quadconstr)):num_cons
+        expr = MathProgBase.constr_expr(d,i)
+        if isexponentialcon(expr)
+           ev = parseexponentialcon(expr)
+           push!(expVariable_list, ev)
+        elseif islogcon(expr)
+           ev = parselogcon(expr)
+           push!(logVariable_list, ev)
+        elseif ispowercon(expr)
+           ev = parsepowercon(expr)
+           push!(powerVariable_list, ev)
+        elseif ismonomialcon(expr)
+           ev = parsemonomialcon(expr)
+	   push!(expVariable_list, ev)
+           #push!(monomialVariable_list, ev)
+        end
+    end
+    #=
+    println(expVariable_list)
+    println(logVariable_list)
+    println(powerVariable_list)
+    println(monomialVariable_list)
+    =#
 
     Pcopy = copyModel(P)
     multiVariable_list = []
@@ -223,7 +255,7 @@ function preprocessex!(P)
                     mv.pd = 0
 		 end   		    
 		 if mv.pd == 0 
-		    alpha = Array(Float64, C)
+		    alpha = Array{Float64}(C)
 		    lamda_min = minimum(val)
 		    added = true
 
@@ -233,7 +265,7 @@ function preprocessex!(P)
 			end
 		    end
 		    for k in 1:C
-		    	alpha[k] = max(0,  min(-lamda_min, sum(abs(Q[k,:])) - 2*Q[k,k])) 
+		    	alpha[k] = max(0,  min(-lamda_min, sum(abs.(Q[k,:])) - 2*Q[k,k])) 
 			varId =  mv.qVarsId[k]
                        if !haskey(qbVarsId[varId], varId)
                             added = false
@@ -361,9 +393,14 @@ function preprocessex!(P)
     pr.multiVariable_list = multiVariable_list
     pr.multiVariable_convex = multiVariable_convex
     pr.multiVariable_aBB = multiVariable_aBB
+
+    pr.expVariable_list = expVariable_list
+    pr.logVariable_list	 = logVariable_list
+    pr.powerVariable_list = powerVariable_list
+    pr.monomialVariable_list = monomialVariable_list
     return pr
 end
-
+#=
 function findnode(c, nlinconstrs)
     nodeid = 1	 
     for i in 1:length(nlinconstrs)
@@ -375,3 +412,4 @@ function findnode(c, nlinconstrs)
     end
     return nodeid
 end
+=#
